@@ -1,0 +1,379 @@
+
+<h1 class="sectionedit1" id="标志性动作拓展">标志性动作拓展</h1>
+<div class="level1">
+
+<p>
+是不是希望你的角色有固定的必杀技？更灵活的战斗风格？或者什么个人的恶趣味设定？这里可以满足你DIY角色的需要。
+</p>
+
+<p>
+角色每一级可以确定一个新的标志性动作，已有的动作不能再更改。创建新动作的方法如下：
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u6807\u5fd7\u6027\u52a8\u4f5c\u62d3\u5c55&quot;,&quot;hid&quot;:&quot;\u6807\u5fd7\u6027\u52a8\u4f5c\u62d3\u5c55&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-323&quot;} -->
+<h2 class="sectionedit2" id="创建新动作">创建新动作</h2>
+<div class="level2">
+
+<p>
+小到即时动作，大到跨轮动作或者多段复合动作，总要满足一定的强度规约。
+</p>
+
+<p>
+在创建动作时，先确定其主动作（如：近战攻击），再在上面进行一系列的修饰。标志性动作的动作类别总是视为主动作类别（无论你在其中做了什么骚操作）。当然，就算修饰词是即时动作，也并不是能无限制的追加的，不然系统迟早会乱套。我们规定主动作为即时动作则最多有2个修饰词，0.5标动/移动动作最多有3个修饰词，1标动最多有5个修饰词，1.5标动最多有8个修饰词，整轮/跨轮动作总共最多10*轮数个修饰词。注意只记主动作原本的时间长度。
+</p>
+
+<p>
+增加修饰词除了词缀总数限制以外，还有动作强度限制。有些词缀会增加强度总强度，而有些则会消耗总强度。初始强度点数为角色当前{主属性}/2。此外，你可以用1符卡成长点数，换取1动作强度。<br/>
+
+</p>
+
+<p>
+动作的词缀一经确定就不能更改，但由于角色的主属性会发生变化，因此动作的效果可能也会发生变化。部分词缀，如“伤害加深”消耗的点数是浮动的，因此可以在总强度点数变化的情况下调整其强度以满足点数条件。而如果动作中所有的词缀都不能浮动，而总点数下降的情况，那么那个动作不能被发动。<strong>特别的，你可以获得0级的某个可升级词缀。</strong><br/>
+
+动作的发动必须满足其所有词缀的发动条件，比如有“固定台词”的动作，如果角色被沉默，那么不可经由总点数浮动而发动这个动作。<br/>
+
+所有小数点运算均向下取整。
+</p>
+
+<p>
+<strong>如无特殊声明，所有的词缀都不能反复获得。</strong><br/>
+
+<strong>不同限制条件的同一词缀，算作不同词缀</strong>
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u521b\u5efa\u65b0\u52a8\u4f5c&quot;,&quot;hid&quot;:&quot;\u521b\u5efa\u65b0\u52a8\u4f5c&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;324-2150&quot;} -->
+<h2 class="sectionedit3" id="限制类_动作强度">限制类(动作强度+)</h2>
+<div class="level2">
+
+<p>
+固定台词：即时动作，+2点，语言成分。<br/>
+
+你在出招的某一阶段必须说出一句固定的台词，比如“你的败因只有一个，那就是惹怒了我”之类。<br/>
+
+</p>
+
+<p>
+固定动作：即时动作，+2点，姿势成分。<br/>
+
+你在出招某一阶段必须摆出一个固定的pose，比如球拍拖地之类。
+</p>
+
+<p>
+前置动作：点数不定<br/>
+
+动作必须紧接着某一个特定的行动之后进行，必须指定一个确定的动作，以及是否成功，比如“闪避成功后”、“射击失败后”、“符卡展开后”等等<br/>
+
+如果指定了某个具体的法术/符卡/连段/物品/etc，而不是“施法”/“展开符卡”/“进行连段”整体，那么点数*1.5。<br/>
+
+根据指定的行动获得点数。即时动作+2，0.5标动/移动动作+4,1标动+8,1.5标动+12，整轮/跨轮+20
+</p>
+
+<p>
+紧后动作：点数不定<br/>
+
+动作完成后必须立即执行某一个特定的行动，必须指定一个确定的动作，比如“之后射击”、“之后移动”、“之后使用道具”等等<br/>
+
+如果指定了某个具体的法术/符卡/连段/物品/etc，而不是“施法”/“展开符卡”/“进行连段”整体，那么点数*1.5。<br/>
+
+根据指定的行动获得点数。即时动作+2，0.5标动/移动动作+4,1标动+8,1.5标动+12，整轮/跨轮+20<br/>
+
+在开始行动前，必须确保至少有一种能够执行紧后动作的可能性，才可以开始行动。<br/>
+
+如果执行结束后没有执行可能性了，那么下一轮到自己回合时必须进行紧后动作，或者进行紧后动作的最好尝试（无明显选择就罚站），直到紧后动作被完成。
+</p>
+
+<p>
+蓄能：动作不定，点数不定<br/>
+
+在主动作开始前进行最少0.5标动的蓄能。<br/>
+
+</p>
+<div class="table sectionedit4"><table class="inline">
+	<tr class="row0">
+		<td class="col0 leftalign">     </td><td class="col1 centeralign">  0.5标动  </td><td class="col2 centeralign">  1标动  </td><td class="col3 centeralign">  1.5标动  </td><td class="col4 centeralign">  整轮  </td><td class="col5 centeralign">  跨轮  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign">点数  </td><td class="col1 centeralign">  +8  </td><td class="col2 centeralign">  +16  </td><td class="col3 centeralign">  +24  </td><td class="col4 centeralign">  +30  </td><td class="col5 centeralign">  不允许  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;3939-4064&quot;} -->
+<p>
+体型限制：点数不定<br/>
+
+指定1~5种目标的体型。指定1种+10,2种+7,3种+5,4种+3,5种+1。
+</p>
+
+<p>
+体力限制：点数不定<br/>
+
+选择体力在5%，25%，50%，75%，100%以上或以下时才能发动
+</p>
+<div class="table sectionedit5"><table class="inline">
+	<tr class="row0">
+		<td class="col0 leftalign">     </td><td class="col1 centeralign">  5%  </td><td class="col2 centeralign">  25%  </td><td class="col3 centeralign">  50%  </td><td class="col4 centeralign">  75%  </td><td class="col5 centeralign">  100%  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign">以上  </td><td class="col1 centeralign">  +1  </td><td class="col2 centeralign">  +4  </td><td class="col3 centeralign">  +8  </td><td class="col4 centeralign">  +12  </td><td class="col5 centeralign">  +16  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign">以下  </td><td class="col1 centeralign">  +20  </td><td class="col2 centeralign">  +16  </td><td class="col3 centeralign">  +12  </td><td class="col4 centeralign">  +8  </td><td class="col5 centeralign">  +4  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;4276-4420&quot;} -->
+<p>
+体力消耗：即时动作，点数不定<br/>
+
+消耗最大体力值一定百分比的体力，以获得更强的效果。体力消耗可以自由设定在动作开始前、动作中或结束后。不同时间的体力消耗算作不同的词缀。<br/>
+
+体力消耗可以卡在体力限制之前。
+</p>
+<div class="table sectionedit6"><table class="inline">
+	<tr class="row0">
+		<td class="col0 leftalign">体力消耗     </td><td class="col1 centeralign">  10%  </td><td class="col2 centeralign">  25%  </td><td class="col3 centeralign">  50%  </td><td class="col4 centeralign">  75%  </td><td class="col5 centeralign">  99%  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign">总强度  </td><td class="col1 centeralign">  +8  </td><td class="col2 centeralign">  +16  </td><td class="col3 centeralign">  +32  </td><td class="col4 centeralign">  +64  </td><td class="col5 centeralign">  +80  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;4719-4831&quot;} -->
+<p>
+灵力限制：点数不定<br/>
+
+选择灵力在5%，25%，50%，75%，100%以上或以下时才能发动
+</p>
+<div class="table sectionedit7"><table class="inline">
+	<tr class="row0">
+		<td class="col0 leftalign">     </td><td class="col1 centeralign">  5%  </td><td class="col2 centeralign">  25%  </td><td class="col3 centeralign">  50%  </td><td class="col4 centeralign">  75%  </td><td class="col5 centeralign">  100%  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign">以上  </td><td class="col1 centeralign">  +1  </td><td class="col2 centeralign">  +3  </td><td class="col3 centeralign">  +6  </td><td class="col4 centeralign">  +9  </td><td class="col5 centeralign">  +12  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign">以下  </td><td class="col1 centeralign">  +15  </td><td class="col2 centeralign">  +12  </td><td class="col3 centeralign">  +9  </td><td class="col4 centeralign">  +6  </td><td class="col5 centeralign">  +3  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;4938-5080&quot;} -->
+<p>
+灵力消耗：即时动作，点数不定
+</p>
+
+<p>
+消耗最大灵力值一定百分比的灵力，以获得更强的效果。灵力消耗可以自由设定在动作开始前、动作中或结束后。不同时间的体力消耗算作不同的词缀。<br/>
+
+动作后的灵力消耗允许导致晕厥。
+</p>
+<div class="table sectionedit8"><table class="inline">
+	<tr class="row0">
+		<td class="col0 leftalign">灵力消耗     </td><td class="col1 centeralign">  10%  </td><td class="col2 centeralign">  25%  </td><td class="col3 centeralign">  50%  </td><td class="col4 centeralign">  75%  </td><td class="col5 centeralign">  100%  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign">总强度  </td><td class="col1 centeralign">  +6  </td><td class="col2 centeralign">  +12  </td><td class="col3 centeralign">  +24  </td><td class="col4 centeralign">  +48  </td><td class="col5 centeralign">  +60  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;5377-5490&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u9650\u5236\u7c7b(\u52a8\u4f5c\u5f3a\u5ea6+)&quot;,&quot;hid&quot;:&quot;\u9650\u5236\u7c7b_\u52a8\u4f5c\u5f3a\u5ea6&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;2151-5491&quot;} -->
+<h2 class="sectionedit9" id="效果类_动作强度">效果类(动作强度-)</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u6548\u679c\u7c7b(\u52a8\u4f5c\u5f3a\u5ea6-)&quot;,&quot;hid&quot;:&quot;\u6548\u679c\u7c7b_\u52a8\u4f5c\u5f3a\u5ea6&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:9,&quot;range&quot;:&quot;5492-5529&quot;} -->
+<h3 class="sectionedit10" id="通用类">通用类</h3>
+<div class="level3">
+
+<p>
+判定值增加：2点每判定值。<br/>
+
+使当前动作的判定值增加。
+</p>
+
+<p>
+动作高速化：20点每级。<br/>
+
+使动作的速度加快一级，最低到0.5标动。
+</p>
+
+<p>
+动作即时化：30点。<br/>
+
+使已经是0.5标动的动作变为即时动作。以这个手段变为即时动作的动作，每次使用要消耗1dp。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u901a\u7528\u7c7b&quot;,&quot;hid&quot;:&quot;\u901a\u7528\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:10,&quot;range&quot;:&quot;5530-5873&quot;} -->
+<h3 class="sectionedit11" id="战斗类">战斗类</h3>
+<div class="level3">
+
+<p>
+伤害加深：3点每级。<br/>
+
+为本动作增加一个非能力额外伤害骰。
+</p>
+
+<p>
+高速移动：5点每级。<br/>
+
+使本动作附带本回合内移动力增加（而不是直接即时动作移动）
+</p>
+
+<p>
+单体击退：5点每级。<br/>
+
+使本动作成功后目标被击退。<br/>
+
+（动作必须有除自己以外的单体目标）（回避/格挡/抵抗可）
+</p>
+
+<p>
+群体击退：15点每级。<br/>
+
+使本动作成功后目标被击退。<br/>
+
+（动作必须的目标必须是“范围”，且有立即效果）
+</p>
+
+<p>
+单体嘲讽：10点。<br/>
+
+使本动作成功后目标被嘲讽，对方进行一次意志抵抗 （目标值为16+人物等级+siz系数（每大一级+2）） 失败则目标锁定为你，且他对你的所有伤害-2。 <br/>
+
+（动作必须有除自己以外的单体目标）（回避/格挡/抵抗可）
+</p>
+
+<p>
+群体嘲讽：30点。<br/>
+
+使本动作成功后目标被嘲讽，对方进行一次意志抵抗 （目标值为16+人物等级+siz系数（每大一级+2）） 失败则目标锁定为你，且他对你的所有伤害-2。 <br/>
+
+（动作必须的目标必须是“范围”，且有立即效果）
+</p>
+
+<p>
+单体晕眩：15点。<br/>
+
+使本动作成功后目标下次行动只有1标动或0.5标动1移动。<br/>
+
+（动作必须有除自己以外的单体目标）（回避/格挡/抵抗可）
+</p>
+
+<p>
+群体晕眩：40点。<br/>
+
+使本动作成功后目标下次行动只有1标动或0.5标动1移动。<br/>
+
+（动作必须的目标必须是“范围”，且有立即效果）
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u6218\u6597\u7c7b&quot;,&quot;hid&quot;:&quot;\u6218\u6597\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:11,&quot;range&quot;:&quot;5874-7359&quot;} -->
+<h3 class="sectionedit12" id="探索类">探索类</h3>
+<div class="level3">
+
+<p>
+警戒：5点每级。即时动作。<br/>
+
+动作同时视为进行一次达成值为10+4*等级的某一种类&lt;感知&gt;（建成时决定）
+</p>
+
+<p>
+探查：5点每级。即时动作。<br/>
+
+动作同时视为进行了一次达成值为10+4*等级的某一种类的&lt;知识&gt;（建成时决定）
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u63a2\u7d22\u7c7b&quot;,&quot;hid&quot;:&quot;\u63a2\u7d22\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:12,&quot;range&quot;:&quot;7360-7664&quot;} -->
+<h3 class="sectionedit13" id="法术类">法术类</h3>
+<div class="level3">
+
+<p>
+去除语言成分：4点。<br/>
+
+去除施法的语言成分。
+</p>
+
+<p>
+去除姿势成分：4点。<br/>
+
+去除施法的姿势成分。
+</p>
+
+<p>
+效果强化：5点每级。<br/>
+
+法术生效时视为能力等级+1。
+</p>
+
+<p>
+特技施法：5点。<br/>
+
+你的失手点数不计，并且每有2点失手，施法判定值+1。
+</p>
+
+<p>
+法术专精：-8点。<br/>
+
+主能力限定从“施法”变为“施放某一个法术”。（建成时决定）
+</p>
+
+<p>
+触发过载：8点。<br/>
+
+选择一个【能力】等级&gt;3且不超过1标动的法术。在进行主动作时同时进行一次正常的施法判定，成功则进行了一次即时动作的该法术施法。<br/>
+
+这个方法施放的法术生效时能力等级视为1并且灵力消耗翻倍。（建成时决定）
+</p>
+
+<p>
+狂妖化：8点。<br/>
+
+本轮内你施放法术时，无视等级视为同时释放了法术的魔法精通效果，并且法术等级视为+2。原本已经精通的，视为等级+4。<br/>
+
+法术没有精通效果的，根据原本的目标种类，可以额外选择一个目标/效果范围+5m<br/>
+
+由这个效果产生的额外持续性效果最多持续【对应能力】轮，不能被延续。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u6cd5\u672f\u7c7b&quot;,&quot;hid&quot;:&quot;\u6cd5\u672f\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:13,&quot;range&quot;:&quot;7665-8811&quot;} -->
+<h3 class="sectionedit14" id="弹幕类">弹幕类</h3>
+<div class="level3">
+
+<p>
+<strong>主动作必须选择为“专注攻击”或“弹幕援护”</strong>
+</p>
+
+<p>
+强度提升：4点每级。<br/>
+
+弹幕构成等级提升。（弹幕类不享受“判定值增加”的效果）
+</p>
+
+<p>
+破甲：4点每级。<br/>
+
+在攻击有硬度目标时，对方硬度视为-3。溢出部分，每一级伤害+1。
+</p>
+
+<p>
+限制解除：6点每级。
+每级可以选择一个出弹点，取消其弹幕强度限制，并在本回合结束时将其消灭。
+</p>
+
+<p>
+没想好，等需求。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u5f39\u5e55\u7c7b&quot;,&quot;hid&quot;:&quot;\u5f39\u5e55\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:14,&quot;range&quot;:&quot;8812-9293&quot;} -->
+<h3 class="sectionedit15" id="特殊类">特殊类</h3>
+<div class="level3">
+
+<p>
+没想好，等需求。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u7279\u6b8a\u7c7b&quot;,&quot;hid&quot;:&quot;\u7279\u6b8a\u7c7b&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:15,&quot;range&quot;:&quot;9294-&quot;} -->

@@ -1,0 +1,7 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1551369472;s:8:"modified";i:1551369472;}s:7:"creator";s:14:"Rococo Scarlet";s:4:"user";s:6:"roscar";s:11:"last_change";a:8:{s:4:"date";i:1551369472;s:2:"ip";s:14:"128.210.106.49";s:4:"type";s:1:"C";s:2:"id";s:6:"猛汉";s:4:"user";s:6:"roscar";s:3:"sum";s:6:"创建";s:5:"extra";s:0:"";s:10:"sizechange";i:712;}s:5:"title";s:18:"怪物猎人拓展";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:18:"怪物猎人拓展";s:5:"title";s:18:"怪物猎人拓展";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:65:"目前工事中_需要大量细化和平衡性调整_别用为好";s:5:"title";s:76:"**目前工事中，需要大量细化和平衡性调整，别用为好（**";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:387:"怪物猎人拓展
+
+**目前工事中，需要大量细化和平衡性调整，别用为好（**
+
+基于怪物猎人系列的拓展规则，主要丰富了武器系统，新增特技，新增动作，增加了更为详细的部位破坏规则。
+
+武器列表添加了原版的14种武器，细分为打击和斩击。注意并不是所有武器都能用于格挡。以及DP=体力条。";}s:8:"relation";a:2:{s:10:"references";a:4:{s:19:"猛汉:武器列表";b:1;s:19:"猛汉:狩猎风格";b:0;s:19:"猛汉:新增种族";b:1;s:19:"猛汉:附加规则";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1551369472;}s:7:"creator";s:14:"Rococo Scarlet";s:4:"user";s:6:"roscar";s:11:"last_change";a:8:{s:4:"date";i:1551369472;s:2:"ip";s:14:"128.210.106.49";s:4:"type";s:1:"C";s:2:"id";s:6:"猛汉";s:4:"user";s:6:"roscar";s:3:"sum";s:6:"创建";s:5:"extra";s:0:"";s:10:"sizechange";i:712;}}}
