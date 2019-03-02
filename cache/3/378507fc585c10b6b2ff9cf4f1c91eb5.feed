@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://mnm.roscar.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://mnm.roscar.club/feed.php">
+        <title>少女与异变</title>
+        <description></description>
+        <link>http://mnm.roscar.club/</link>
+        <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-03-02T12:43:24+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/playground/playground?rev=1551383584&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%88%90%E9%95%BF?rev=1551370534&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1551370518&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2?rev=1551370502&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1551370486&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E8%83%8C%E6%99%AF%E6%95%85%E4%BA%8B?rev=1551370466&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95?rev=1551370371&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%AD%A6%E5%99%A8%E5%88%97%E8%A1%A8?rev=1551370069&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%96%B0%E5%A2%9E%E7%A7%8D%E6%97%8F?rev=1551370048&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1551369999&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E6%B6%88%E8%80%97%E5%93%81?rev=1551369978&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/</link>
+        <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://mnm.roscar.club/playground/playground?rev=1551383584&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T19:53:04+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>playground:playground</title>
+        <link>http://mnm.roscar.club/playground/playground?rev=1551383584&amp;do=diff</link>
+        <description>实验室
+
+请在这里进行尝试
+
+二级目录丢失中</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:15:49+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:气质 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff</link>
+        <description>气质
+
+当建立一个新角色时，可以免费为你的角色选择一个气质，这个气质决定了角色的战斗倾向或者人物特点。
+
+台风（强袭）
+
+身体+2
+
+近战达成值+2，自己和自己攻击的目标格挡成功减伤变为【锻炼】*2,格挡失败不再减伤。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%88%90%E9%95%BF?rev=1551370534&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:15:34+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:成长 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%88%90%E9%95%BF?rev=1551370534&amp;do=diff</link>
+        <description>成长
+
+当角色经历了一定的历练后，就会提升到新的等级了。这个过程一般是在一个冒险结束后，也可能某些故事开始前，角色就已经不是lv1的状态了。这种情况下，除了提升角色的等级以外，还可以获得特性值、能力、技能、HP系数与符卡的成长。和建成角色时类似，可以任意在四项上分配ABCD四个成长级别（其中HP系数与符卡捆绑为一项）。如果是希望微调角色成长的长团，或者有其它特殊需求的话，采用BCCD或者BCDE之类较缓慢的成长系数也是可以的。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1551370518&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:15:18+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:特性值与体型 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1551370518&amp;do=diff</link>
+        <description>特性值与体型
+
+特性值与体型属于角色最基本的属性。这些属性关系到几乎所有判定能否成功，譬如较为强壮的角色不易被毒素影响，身形迅捷的角色可以先发制人，⑨很难释放需要知识的魔法等等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2?rev=1551370502&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:15:02+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:官方角色 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2?rev=1551370502&amp;do=diff</link>
+        <description>人物卡示例
+
+规则一直改来改去到底是谁的错（
+
+嘛，好多地方写的都是小过时的东西了，我哪天整个再过一遍。
+
+人物卡工具请找⑨菜搞到最新版。没稳定暂不放出。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1551370486&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:14:46+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:种族 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1551370486&amp;do=diff</link>
+        <description>种族
+
+在幻想乡中，各种各样种族的生物关注和谐、谋求发展一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E8%83%8C%E6%99%AF%E6%95%85%E4%BA%8B?rev=1551370466&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:14:26+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>角色:背景故事 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E8%83%8C%E6%99%AF%E6%95%85%E4%BA%8B?rev=1551370466&amp;do=diff</link>
+        <description>背景故事
+
+我们强烈建议您完善角色的背景故事，再进行游戏。这个角色有何能力？身居何处？与其它角色有何互动？如果没有头绪的话，可以参考求闻史记，或者看看其它人是怎么设定的。不光是与原作角色的互动，与其它PC的互动也是可以的。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:13:57+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>限制解除:专属法术 - 创建</title>
+        <link>http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff</link>
+        <description>专属法术
+
+以造成永久性伤害，甚至是杀人为目标的法术，在此列出。
+
+使用时，法术等级根据描述确定。这些法术只需要描述中的法术等级&gt;法术环数就能使用，不需要消耗法术位习得。
+
+----------</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95?rev=1551370371&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:12:51+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95?rev=1551370371&amp;do=diff</link>
+        <description>魔法的习得
+
+如能力与特技所述，按照规则消费能力点数可以习得与成长。
+
+法术的习得按系统进行分类（及限制）。魔法系统共有七种：
+
+精神系影响他人的心智或者精神的魔法咒法系引导魔法能量进行创造、治愈、召唤、传送的魔法</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:12:21+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:阴阳术 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff</link>
+        <description>神术·阴阳术的习得
+
+【神术·阴阳术】可以消耗能力点数来习得和提升。
+
+使用【神术·阴阳术】的各个法术前，必须单独习得其法术。每【神术·阴阳术】等级可以习得2个法术。在习得阴阳术时，你额外选择一个【魔法】系别（包括精灵系），你每级的2个法术位，至多有1个，可以习得那个魔法系别的法术，法术等级视为【神术·阴阳术】。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:12:01+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff</link>
+        <description>锻炼与连段
+
+熟练的使用武器和连续攻击的能力。
+等级    0→1    →2    →3    →4    →5    →6  锻炼    4    6    8    10    10    10  连段    10    10    10    10    10    10  
+锻炼
+
+使角色熟练地使用武器的能力。选择一种具体的武器进行锻炼。如【射击锻炼：标枪】或【近战锻炼：日本刀】。使用同类型的武器时锻炼等级视作不变（如：刀与附魔的刀），不同武器间的锻炼无法通用。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:11:43+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:特技 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff</link>
+        <description>特技
+
+根据功能，分为基础类，效果类，弹幕类，动作类。此外，还有一些零散的内容，如使魔等，也归于此类。
+
+基础类
+
+HP：1点+0.1hp系数
+
+灵力：1点+1灵力上限
+
+高速飞行：2点，移动力+0.5每级</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:10:51+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:法术通用规则 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff</link>
+        <description>法术的使用
+
+ 施法判定：使用{对应特性值}+【能力等级】*2作为基础判定值，部分能力或装备等会给予判定值补正。目标值为6*（2+法术环数）。在施法上不能投入dp，由于其它效果获得的判定补正（如集中精神，【假动作】特技等）正常计算在内。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:09:24+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:构成弹幕 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff</link>
+        <description>构成弹幕
+
+进行跨轮的弹幕攻击的附加能力。选择你已经习得的一个【能力】，以学习【构成弹幕：xx能力】。学习消耗为3/4/5/5/5/5。
+
+你学习的【构成弹幕】等级不能超过对应【能力】+1
+
+（对应能力限【阴阳术】/【魔法】/【属性使】/【射击锻炼】，魔法道具、符卡等临时补正的等级不计算在内）</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:09:06+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:属性使 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff</link>
+        <description>使用的特性值
+
+「属性使」是一种天生的能力，属于感觉型的能力，无需理解也可以使用，特别是对于妖精等等来说。因此在使用「属性使」时，除了{知性}也可以使用{感觉}。具体使用{知性}还是{感觉}需要在学习「属性使」时决定好。同时学会数个「属性使」时，必须关联相同的特性值。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:08:35+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>能力:妖术 - 创建</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff</link>
+        <description>妖术的学习
+
+妖术从规则上可以看做是将魔法的每个法术分别视为独立的能力而习得的东西。不过也有若干妖术特有的能力。除非与属性使组合，否则人类无法习得妖术。
+
+妖术的主属性为{智力}，默认不需法术成分，只要移动手指的程度即可发动。其灵力消耗为对应法术的一半（向下取整，但不低于1）。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%AD%A6%E5%99%A8%E5%88%97%E8%A1%A8?rev=1551370069&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:07:49+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>猛汉:武器列表 - 创建</title>
+        <link>http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%AD%A6%E5%99%A8%E5%88%97%E8%A1%A8?rev=1551370069&amp;do=diff</link>
+        <description>武器列表
+
+提供MH原版的武器，所有武器底价为5円，可以附加其它锻造/附魔词缀。
+
+武器斩味下降？子弹和瓶？异常状态？骑♂乘？不存在的
+
+通用规则
+
+斩击属性和打击属性：武器命中时除了造成伤害时，还会进行异常状态的积蓄(可能和命中部位有关)。当积累到30后，就会触发对应的异常状态，之后积蓄值清零。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%96%B0%E5%A2%9E%E7%A7%8D%E6%97%8F?rev=1551370048&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:07:28+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>猛汉:新增种族 - 创建</title>
+        <link>http://mnm.roscar.club/%E7%8C%9B%E6%B1%89/%E6%96%B0%E5%A2%9E%E7%A7%8D%E6%97%8F?rev=1551370048&amp;do=diff</link>
+        <description>怪物猎人种族扩展
+
+艾露猫D：
+
+体型固定为“极小”
+
+使用近战攻击时，对方的回避判定值+4，格挡判定值-4。
+
+狩人C:
+
+初始金钱+5円。
+
+免疫单回合20以下的的跌落伤害和击退伤害。（依然会被击退）</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1551369999&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:06:39+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>技能与生活:装备 - 创建</title>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1551369999&amp;do=diff</link>
+        <description>装备
+
+普通的可以买到装备，包括近战武器、射击武器和护身符三类。请注意！魔法和阴阳术的释放可能会需要姿势成分，因此无法在持有武器时施法！但可以正常使用护身符、真实之物等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E6%B6%88%E8%80%97%E5%93%81?rev=1551369978&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:06:18+0000</dc:date>
+        <dc:creator>roscar (roscar@undisclosed.example.com)</dc:creator>
+        <title>技能与生活:消耗品 - 创建</title>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E6%B6%88%E8%80%97%E5%93%81?rev=1551369978&amp;do=diff</link>
+        <description>消耗品
+
+一些吃吃喝喝的东西，待增补。
+
+魔药
+
+提供售后服务的炼金业务。具体参考魔药学
+
+1円可以无限量的获得一种【魔法】lv1，环数-2的魔药。
+
+一般而言家中可以储藏10瓶，随身可以携带三瓶，且每周可以补充。</description>
+    </item>
+</rdf:RDF>
