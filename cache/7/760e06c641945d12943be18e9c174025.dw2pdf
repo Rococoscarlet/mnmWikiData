@@ -1,0 +1,106 @@
+<a name="能力魔法__"></a>
+<h2><bookmark content="魔法的习得" level="1" /><a name="能力魔法__魔法的习得">魔法的习得</a></h2>
+<div class="level2">
+
+<p>
+如能力与特技所述，按照规则消费能力点数可以习得与成长。
+</p>
+
+<p>
+法术的习得按系统进行分类（及限制）。魔法系统共有七种：<br/>
+
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<th class="col0"><strong>精神系</strong></th><td class="col1">影响他人的心智或者精神的魔法</td>
+	</tr>
+	<tr class="row1">
+		<th class="col0"><strong>咒法系</strong></th><td class="col1">引导魔法能量进行创造、治愈、召唤、传送的魔法</td>
+	</tr>
+	<tr class="row2">
+		<th class="col0"><strong>变化系</strong></th><td class="col1">改变事物的性质或者状态，或改变身体机能的魔法</td>
+	</tr>
+	<tr class="row3">
+		<th class="col0"><strong>幻觉系</strong></th><td class="col1">制造幻觉，让受术者看到不存在之事或看不到存在之事的魔法</td>
+	</tr>
+	<tr class="row4">
+		<th class="col0"><strong>命运系</strong></th><td class="col1">帮助施术者瞥见事物真相、操控因果的魔法</td>
+	</tr>
+	<tr class="row5">
+		<th class="col0"><strong>精灵系</strong></th><td class="col1">用魔法的力量役使属性精灵，让人获得属性使力量的魔法</td>
+	</tr>
+	<tr class="row6">
+		<th class="col0"><strong>奥法系</strong></th><td class="col1">对魔法能量本身进行操作或者解析的魔法</td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;198-757&quot;} -->
+<p>
+这七个个系统均需要持有相对应的［魔导书］来习得。在最初习得「魔法」时，可免费取得两个系统的［魔导书］。其它的［魔导书］可视为魔法物品取得，消耗3能力点。<br/>
+
+</p>
+
+<p>
+每个等级可从拥有的魔导书（系统）中选择三项法术习得。消费2能力点，还可再额外学习一个法术。可以习得的话，可以从系统中任选。在无法习得的状况时，习得数只是单纯的减少，因此需注意有计划地取得新的［魔导书］。<br/>
+
+</p>
+
+<p>
+此外，你可以消耗能力点，对一个或多个系统进行【专精训练】。【专精训练】每有一级，增强该系法术判定值2。专精的等级不能高于【魔法】本身的等级。
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> 等级   </th><th class="col1"> 0→1 </th><th class="col2 rightalign">  1→2 </th><th class="col3 centeralign">  2→3  </th><th class="col4 centeralign">  3→4  </th><th class="col5 centeralign">  4→5  </th><th class="col6 rightalign">  5+（每级） </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<th class="col0 leftalign">魔法  </th><td class="col1 centeralign">  5  </td><td class="col2 centeralign">  10  </td><td class="col3 centeralign">  15  </td><td class="col4 centeralign">  15  </td><td class="col5 centeralign">  15  </td><td class="col6 centeralign">  15  </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0 leftalign">专精训练  </th><td class="col1 centeralign">  5  </td><td class="col2 centeralign">  6  </td><td class="col3 centeralign">  7  </td><td class="col4 centeralign">  7  </td><td class="col5 centeralign">  7  </td><td class="col6 centeralign">  7  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;1504-1686&quot;} -->
+</div>
+
+<h2><bookmark content="魔法的发动条件" level="1" /><a name="能力魔法__魔法的发动条件">魔法的发动条件</a></h2>
+<div class="level2">
+
+<p>
+［魔法］法术的发动，必须具备约莫数个文字长度的咏唱（语言虽可自由，但很多人都会决定使用某一语言）以及双手的结印。
+</p>
+<ul>
+<li class="level1"><div class="li">咏唱必须明确发出声音，若身处在声音被封锁的领域内，就无法发动。</div>
+</li>
+<li class="level1"><div class="li">另外，两只手都空不出来的状态也无法发动（单手可持轻物）。</div>
+</li>
+</ul>
+
+<p>
+满足发动条件后，以{知性}+(［魔法］+【专精】)*2为判定值进行发动判定。<br/>
+
+作为对象的人物、物体或者范围必须在效果范围内，在施法者的视线内并且知道其正确位置。
+</p>
+
+</div>
+
+<h2><bookmark content="魔法的使用" level="1" /><a name="能力魔法__魔法的使用">魔法的使用</a></h2>
+<div class="level2">
+
+<p>
+普通攻击的能力伤害骰有【魔法】个，即便在使用魔弹术等强化射击，能力伤害骰也不会变为【魔法】+【奥法系】。<br/>
+
+<em>【能力】等级记为【魔法】+【专精：对应系别】</em><br/>
+
+</p>
+
+</div>
+
+<h2><bookmark content="魔法的精通" level="1" /><a name="能力魔法__魔法的精通">魔法的精通</a></h2>
+<div class="level2">
+
+<p>
+你可以对已经学习的法术再次消耗一个法术学习机会，获得法术的精通效果。妖术相当于自动精通，魔药也要消耗额外的一个学习位才能精通。
+</p>
+
+</div>
