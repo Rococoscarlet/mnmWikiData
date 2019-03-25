@@ -1,0 +1,123 @@
+<a name="能力妖术__"></a>
+<h2><bookmark content="妖术的学习" level="1" /><a name="能力妖术__妖术的学习">妖术的学习</a></h2>
+<div class="level2">
+
+<p>
+妖术从规则上可以看做是将魔法的每个法术分别视为独立的能力而习得的东西。不过也有若干妖术特有的能力。除非与属性使组合，否则人类无法习得妖术。
+</p>
+
+<p>
+妖术的主属性为{智力}，默认不需法术成分，只要移动手指的程度即可发动。其灵力消耗为对应法术的一半（向下取整，但不低于1）。
+</p>
+
+<p>
+妖术的等级上限为角色等级*2+4。部分法术（如【情绪术】）作为妖术习得时其效果有所变化（参见各自的规则）。
+</p>
+
+<p>
+角色可以学习的妖术数目上限为「（角色等级）+2个」。种族能力给予的妖术不计算在内。
+</p>
+
+<p>
+注意习得妖术本身不能如其它能力一样，使用妖术等级进行&lt;射击&gt;&lt;弹幕&gt;&lt;近战&gt;等。但是可以使用妖术学习【魔法：战斗系】中的魔法，以进行战斗。
+</p>
+
+</div>
+
+<h2><bookmark content="与技能的组合使用" level="1" /><a name="能力妖术__与技能的组合使用">与技能的组合使用</a></h2>
+<div class="level2">
+
+<p>
+【妖术】可以与技能组合使用，以重现「催眠的歌声」之类的效果。用于组合的技能必须保证等级不低于妖术的等级，在由于特殊原因导致技能等级低于【妖术】时，【妖术】的等级视为技能等级。
+</p>
+
+<p>
+<em>与技能的组合需自圆其说，且经过dm同意方可使用。</em>
+</p>
+
+<p>
+技能组合后，进行判定时使用的特性值会被替换为与技能相关的特性值。选择的特性值在学会【妖术】时确定，并且不可更换。与技能关联的是何种特性值由GM来裁定。通常情况下关联特性值就是判定使用的特性值。
+</p>
+
+<p>
+技能组合后，判定时视为拥有额外的一级【妖术】。原本法术的法术成分、距离、目标、施法时间、持续时间均会被替换为技能的对应参数。根据原本法术的成分等，获得判定补正。制作系技能可以设定成“接近触发”、“持续有效”或是“被看到时生效”等。只要这个动作还在持续，妖术的效果就不会消失。一般而言歌唱之类的范围扩散技能无法区分敌友，凝视之类的可以。具体效果请于DM商议决定。
+</p>
+
+<p>
+<em>如果是持续效果，按延续法术扣除灵力；如果是多次触发的立即法术，分别扣除灵力。持续时间超过原本法术持续时间的，视为延续的效果计算灵力消耗。</em>
+</p>
+
+<p>
+下表列出了“原本是1标动，目标为角色的法术”的补正，其余情况换0点。
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<td class="col0 centeralign">  半标动  </td><td class="col1 centeralign">  标动  </td><td class="col2 centeralign">  1.5标动  </td><td class="col3 centeralign">  整轮  </td><td class="col4 centeralign">  跨轮  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  -6  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  +6  </td><td class="col3 centeralign">  +12  </td><td class="col4 centeralign">  每一轮额外+12  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  自身  </td><td class="col1 centeralign">  角色  </td><td class="col2 centeralign">  区域  </td><td class="col3 centeralign">  30m内全部  </td><td class="col4 centeralign">  更大  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 centeralign">  +6  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  -6  </td><td class="col3 centeralign">  -12  </td><td class="col4 centeralign">  每30m半径-12  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;2397-2625&quot;} -->
+<p>
+一般组合的例子：
+</p>
+<ul>
+<li class="level1"><div class="li"> 〈舞蹈〉：｛身体｝</div>
+</li>
+<li class="level1"><div class="li"> 〈呼喊〉：｛耐久｝</div>
+</li>
+<li class="level1"><div class="li"> 〈歌唱〉〈绘画〉〈料理〉 等等：｛感觉｝</div>
+</li>
+<li class="level1"><div class="li"> 〈文学〉：｛知性｝（得到组合的效果，特性值不变。）</div>
+</li>
+<li class="level1"><div class="li"> 〈凝视〉：｛意志｝</div>
+</li>
+</ul>
+
+<p>
+以上仅供参考。
+</p>
+
+<p>
+发动与技能组合的能力时首先需要设定好组合的技能。使用组合的【妖术】时，必须要使用设定好的技能（可以在学会时预先设定好技能的表现形式）。例如，在嘈杂的环境下不能尝试技能〈歌唱〉。目标必须能感受到相应的行动。例如，技能〈歌唱〉不能和法术【耳聋】组合。
+与〈绘画〉〈文学〉〈诗歌〉〈料理〉或者制造类技能等组合的情况下，可以理解为「现场做出的简易道具」。也可以认为是「预先准备好的道具」。此时这样的东西不一定需要对方看到或者吃到。当然，不可使用明显不可能携带的道具。GM需要视情况来裁定携带的道具是否符合现场条件。
+</p>
+
+<p>
+使用预先制作的物品来发动技能与【妖术】组合的场合时，也需要注意发动的条件。例如为了与妖术组合而作画的场合，【妖术】的发动判定与灵力消费在发动时进行。
+</p>
+
+<p>
+与技能组合而学会的【妖术】不能像普通的【妖术】（不与技能组合）那样用｛知性｝进行判定。必须通过与技能组合的方式使用。
+</p>
+
+<p>
+与技能组合的妖术，可以将动作融合至对应的技能动作中，进行隐蔽的发动。对方进行对应技能的感知判定（譬如歌唱对应听觉，使用幻想感知判定值-2，其余感知不可）。没能成功的话，不管抵抗的成功与否，妖术的使用都不会被发现。虽然抵抗会正常进行，但是目标不会发觉自己成为了能力的目标，也不会发现这时已经被使用了能力。如果抵抗失败，会正常受到能力的影响，但无法判断影响来自能力，也无法找到使用者。举例：如果受到了【睡眠术】的影响，将会产生那是自然的睡意的错觉。就算明知自己这时不可能产生困意，也无法自行发现这是由能力产生的效果（当然，玩家可以自由的从情况进行推理）。
+</p>
+
+</div>
+
+<h2><bookmark content="与属性使的组合使用" level="1" /><a name="能力妖术__与属性使的组合使用">与属性使的组合使用</a></h2>
+<div class="level2">
+
+<p>
+与技能组合同样的，妖力也可以与【属性使】组合。详细的规则参考<a href="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF#与妖术的组合使用" class="wikilink1" title="能力:属性使">与妖术的组合使用</a>。仅当此时，人类才可习得妖术。
+</p>
+
+</div>
+
+<h2><bookmark content="与天生武器的组合使用" level="1" /><a name="能力妖术__与天生武器的组合使用">与天生武器的组合使用</a></h2>
+<div class="level2">
+
+<p>
+可以与天生武器组合，这种情况下无法再与技能组合。详细规则参考<a href="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8" class="wikilink2" title="能力:锻炼与连段:天生武器与异形武器" rel="nofollow">天生武器与异形武器</a>。
+</p>
+
+</div>
