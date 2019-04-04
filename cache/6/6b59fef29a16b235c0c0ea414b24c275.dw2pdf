@@ -1,0 +1,35 @@
+<a name="角色成长__"></a>
+<h1><bookmark content="成长" level="0" /><a name="角色成长__成长">成长</a></h1>
+<div class="level1">
+
+<p>
+当角色经历了一定的历练后，就会提升到新的等级了。这个过程一般是在一个冒险结束后，也可能某些故事开始前，角色就已经不是lv1的状态了。这种情况下，除了提升角色的等级以外，还可以获得特性值、能力、技能、HP系数与符卡的成长。和建成角色时类似，可以任意在四项上分配ABCD四个成长级别（其中HP系数与符卡捆绑为一项）。如果是希望微调角色成长的长团，或者有其它特殊需求的话，采用BCCD或者BCDE之类较缓慢的成长系数也是可以的。
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign">    </th><th class="col1 centeralign">  A  </th><th class="col2 centeralign">  B  </th><th class="col3 centeralign">  C  </th><th class="col4 centeralign">  D  </th><th class="col5 centeralign">  E  </th><th class="col6 centeralign">  F  </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<th class="col0 leftalign">特性值  </th><td class="col1 centeralign">  6  </td><td class="col2 centeralign">  5  </td><td class="col3 centeralign">  4  </td><td class="col4 centeralign">  3  </td><td class="col5 centeralign">  2  </td><td class="col6 centeralign">  1  </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0 leftalign">技能  </th><td class="col1 centeralign">  6  </td><td class="col2 centeralign">  5  </td><td class="col3 centeralign">  4  </td><td class="col4 centeralign">  3  </td><td class="col5 centeralign">  2  </td><td class="col6 centeralign">  1  </td>
+	</tr>
+	<tr class="row3">
+		<th class="col0 leftalign">能力  </th><td class="col1 centeralign">  15  </td><td class="col2 centeralign">  12  </td><td class="col3 centeralign">  10  </td><td class="col4 centeralign">  8  </td><td class="col5 centeralign">  6  </td><td class="col6 centeralign">  4  </td>
+	</tr>
+	<tr class="row4">
+		<th class="col0 leftalign">HP系数  </th><td class="col1 centeralign">  0.8  </td><td class="col2 centeralign">  0.6  </td><td class="col3 centeralign">  0.4  </td><td class="col4 centeralign">  0.2  </td><td class="col5 centeralign">  0.1  </td><td class="col6 centeralign">  0.1  </td>
+	</tr>
+	<tr class="row5">
+		<th class="col0 leftalign">符卡  </th><td class="col1 centeralign">  1.2  </td><td class="col2 centeralign">  1.0  </td><td class="col3 centeralign">  0.8  </td><td class="col4 centeralign">  0.6  </td><td class="col5 centeralign">  0.4  </td><td class="col6 centeralign">  0.2  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;620-929&quot;} -->
+<p>
+一般而言，按照角色等级=角色原作面数去考虑强度即可。
+</p>
+
+</div>
