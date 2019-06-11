@@ -1,0 +1,9 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1560243655;s:8:"modified";i:1560243655;}s:7:"creator";s:4:"9cai";s:4:"user";s:4:"9cai";s:11:"last_change";a:8:{s:4:"date";i:1560243655;s:2:"ip";s:13:"106.39.42.104";s:4:"type";s:1:"C";s:2:"id";s:38:"能力:阴阳术:阴阳术进阶能力";s:4:"user";s:4:"9cai";s:3:"sum";s:6:"创建";s:5:"extra";s:0:"";s:10:"sizechange";i:2664;}s:5:"title";s:21:"阴阳术进阶能力";s:11:"description";a:2:{s:15:"tableofcontents";a:6:{i:0;a:4:{s:3:"hid";s:21:"阴阳术进阶能力";s:5:"title";s:21:"阴阳术进阶能力";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:9:"封魔针";s:5:"title";s:9:"封魔针";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:12:"分散结界";s:5:"title";s:12:"分散结界";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:12:"多重结界";s:5:"title";s:12:"多重结界";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:6:"境界";s:5:"title";s:6:"境界";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:6:"誓言";s:5:"title";s:6:"誓言";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:566:"阴阳术进阶能力
+
+当且仅当角色已经习得了超过3级的【阴阳术】或【阴阳术·术式】时，才能学习以下的能力。
+
+封魔针
+
+习得能力消耗：5点。使用阴阳术的力量，封印对手的灵力流动。
+
+在你进行<射击>时，你可以额外消耗0.5标动和2灵力，进行封魔针的射击。判定值不变。当命中时，不计【阴阳术】造成的能力伤害骰，每减少了一个伤害骰，对方的灵力-1（但不小于0），且直到下个目标回合的结束阶段，目标施法判定值-1。…";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1560243655;}s:7:"creator";s:4:"9cai";s:4:"user";s:4:"9cai";s:11:"last_change";a:8:{s:4:"date";i:1560243655;s:2:"ip";s:13:"106.39.42.104";s:4:"type";s:1:"C";s:2:"id";s:38:"能力:阴阳术:阴阳术进阶能力";s:4:"user";s:4:"9cai";s:3:"sum";s:6:"创建";s:5:"extra";s:0:"";s:10:"sizechange";i:2664;}}}
