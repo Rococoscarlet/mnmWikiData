@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://mnm.roscar.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://mnm.roscar.club/feed.php">
+        <title>少女与异变 下载</title>
+        <description></description>
+        <link>http://mnm.roscar.club/</link>
+        <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-06-30T23:34:03+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/</link>
+        <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:03:55+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>下载:官方模组</title>
+        <link>http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff</link>
+        <description>滥竽充数.jpg</description>
+    </item>
+</rdf:RDF>
