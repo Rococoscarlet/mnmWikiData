@@ -1,0 +1,256 @@
+<a name="战斗__"></a>
+<h1><bookmark content="战斗" level="0" /><a name="战斗__战斗">战斗</a></h1>
+<div class="level1">
+
+<p>
+幻想乡中的战斗主要以弹幕战的形式展开云云，需要更多描述性语句我不想写。
+</p>
+
+</div>
+
+<h2><bookmark content="战斗基础" level="1" /><a name="战斗__战斗基础">战斗基础</a></h2>
+<div class="level2">
+
+<p>
+在战斗开始时，所有角色以{身体}+{感觉}+d20排序，决定一轮内的行动次序。每轮内，所有角色按照顺序各进行一次自己的回合。所有人的回合都处理完毕后，开始新的一轮。
+</p>
+
+<p>
+一个回合分为回合开始阶段，行动阶段1，战斗阶段，行动阶段2，回合结束阶段。<br/>
+
+在回合开始阶段，处理角色的hp、灵力、dp回复等。在回合的结束阶段，处理角色身上的持续性状态等。如无其它特殊状态，角色每回合会回复{知性}/5（向下取整）的灵力，并且dp回复到上限。如果视野受限或无法活动，dp可能只回复一半或不回复。<br/>
+
+在自己的整个回合中，可以选择进行1标动1移动，1.5标动，2个移动，或进行整轮/跨轮动作。其中，移动动作可选在任意一个行动阶段处理，标准动作在战斗阶段处理。<br/>
+
+战斗阶段中，首先进行目标宣言阶段，宣言动作的目标和种类。在对方声明行动后如目标仍有效则进行命中判定阶段，如在此过程中目标变得无效，则可以更换目标重新进行目标宣言。在命中判定阶段中，进行命中对抗，使用dp。成功后，攻击成立，进入伤害计算阶段，骰伤害骰，并给予目标伤害。注意伤害不是在攻击判定成立的一刻马上生效，也不是马上确定伤害具体数值。<br/>
+
+只要不在进行整轮/跨轮动作，均可以在任意时刻进行即时动作。<br/>
+
+</p>
+
+<p>
+部分能力会允许你无视行动次序进行插动。当某一个人的任一阶段结束后，无论你是否在本轮中进行过自己的回合，你均可以宣言插动。插动时立即进行一个自己的回合，自己的回合结束阶段后，再处理被插动角色的原本阶段。在本轮中可以进行多次插动，自己原本的回合尚未进行的情况下那个回合跳过不再执行。（紧急开卡比提前开卡少一回合注意）在多名角色宣言插动的情况下，按照原本的行动次序排序。
+</p>
+
+<p>
+射击，近战，以及大部分施法属于标准动作。将道具从背包中拿出，换武器，使用道具，使用能力进行探查，部分高速施法等为半动作。连段为1.5标动。构成弹幕、部分高级法术为整轮或跨轮动作。回避、格挡、抵抗为即时动作。
+</p>
+
+</div>
+
+<h2><bookmark content="攻击模式" level="1" /><a name="战斗__攻击模式">攻击模式</a></h2>
+<div class="level2">
+
+<p>
+在进行攻击时，先进行命中判定。以{特性值}+&lt;技能&gt;*2+1d20为判定值与对方的回避/格挡做对抗。如命中判定值较大，则成功命中，基础伤害为对应{特性值}/2（向下取整）。对于射击，额外造成【能力】个d3的伤害，对于近战，额外造成【能力】个d6的伤害。<br/>
+
+</p>
+
+</div>
+
+<h3><bookmark content="射击" level="2" /><a name="战斗__射击">射击</a></h3>
+<div class="level3">
+
+<p>
+指定一个目标进行直接射击。射击武器使用{身体}+【射击锻炼】+&lt;射击&gt;*2，能力射击使用{对应主属性}+&lt;射击&gt;*2。<br/>
+
+距离补正：&lt;射击&gt;等级会受到以下补正<br/>
+
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<td class="col0 centeralign">  0m  </td><td class="col1 centeralign">  5m  </td><td class="col2 centeralign">  10~20m  </td><td class="col3 centeralign">  20~30m  </td><td class="col4 centeralign">  30~60m  </td><td class="col5 centeralign">  &gt;60m  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  -2  </td><td class="col1 centeralign">  -1  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  -1  </td><td class="col4 centeralign">  -2  </td><td class="col5 centeralign">  无效  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;3081-3185&quot;} -->
+</div>
+
+<h3><bookmark content="近战" level="2" /><a name="战斗__近战">近战</a></h3>
+<div class="level3">
+
+<p>
+指定相邻的一个角色，进行近战。使用{身体}+【近战锻炼】+&lt;近战&gt;*2做为判定值。<br/>
+
+无距离补正。<br/>
+
+</p>
+
+</div>
+
+<h3><bookmark content="回避与格挡" level="2" /><a name="战斗__回避与格挡">回避与格挡</a></h3>
+<div class="level3">
+
+<p>
+在对方以你为目标进行目标宣言时时，可以在这两个动作中选一个使用。回避使用{感觉}+&lt;回避&gt;*2作为判定值，与对方命中判定值对抗，成功则不受伤害。格挡使用{耐力}+&lt;格挡&gt;*2作为判定值，与对方的命中判定值对抗，成功则伤害减免【锻炼】*4，失败则伤害减免【锻炼】。<br/>
+
+上回合的移动距离会对本回合的回避产生影响。<br/>
+
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<td class="col0 centeralign">  0m  </td><td class="col1 centeralign">  5m  </td><td class="col2 centeralign">  10~15m  </td><td class="col3 centeralign">  20~25m  </td><td class="col4 centeralign">  30~35m  </td><td class="col5 centeralign">  以此类推  </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  -2d6  </td><td class="col1 centeralign">  -1d6  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  +1d6  </td><td class="col4 centeralign">  +2d6  </td><td class="col5 centeralign">  以此类推  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;3793-3919&quot;} -->
+</div>
+
+<h4><bookmark content="简化防御行动判定" level="3" /><a name="战斗__简化防御行动判定">简化防御行动判定</a></h4>
+<div class="level4">
+
+<p>
+为了节约战斗时间，可以采用只有进攻方投骰子，而防御方的对应动作取固定的目标值进行比较。<strong>如果希望使用这个规则，请提前与其它玩家商议。</strong>
+</p>
+
+<p>
+防御动作的判定值部分正常计算，浮动部分按d20=10，d6=3来进行计算（略低于原本期望）
+</p>
+
+</div>
+
+<h3><bookmark content="其它模式" level="2" /><a name="战斗__其它模式">其它模式</a></h3>
+<div class="level3">
+
+<p>
+包括<strong><a href="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5#连段" class="wikilink1" title="能力:锻炼与连段">连段</a></strong>、<strong><a href="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95" class="wikilink1" title="能力:构成弹幕">构成弹幕</a></strong>等较为复杂的攻击模式。具体参照对应规则的描述，对其的回避和格挡并无特殊规则。
+</p>
+
+</div>
+
+<h2><bookmark content="战术地图与距离" level="1" /><a name="战斗__战术地图与距离">战术地图与距离</a></h2>
+<div class="level2">
+
+<p>
+一般采用方格，每格的边长为5m。人物默认的移动力为2格每移动动作。<br/>
+
+可能会出现障碍物等（由能力制造的或原本就存在的物理性障碍物）。弹幕可以破坏能力生成的墙壁，但无法对物理性的障碍造成伤害。射击和近战则可以。
+</p>
+
+<p>
+下面列出了一些常见的障碍物的血量和硬度。（硬度是伤害减免，比如硬度为2的单位受到了7伤害，则实际降低5点hp）
+</p>
+<ul>
+<li class="level1"><div class="li"> 草垛，花田或屏风等松散、不固定的障碍物：5hp，0硬度。</div>
+</li>
+<li class="level1"><div class="li"> 低矮的土墙：20hp，0硬度。</div>
+</li>
+<li class="level1"><div class="li"> 夯土的墙，或者双层的土墙：30hp，1硬度。（绝大多数的民居墙壁）</div>
+</li>
+<li class="level1"><div class="li"> 砖墙、脆性石块或者混凝土的残部：40hp，3硬度。</div>
+</li>
+<li class="level1"><div class="li"> 钢筋混凝土或者其它非魔法材质的厚墙：70hp，5硬度。</div>
+</li>
+</ul>
+
+<p>
+魔法构成的墙按照魔法本身的说明来计算。较厚的墙可以酌情增加hp，但最好不要改变硬度。建筑的承重墙被破拆30%以上可能导致垮塌注意。
+</p>
+
+</div>
+
+<h2><bookmark content="杂项" level="1" /><a name="战斗__杂项">杂项</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="特殊动作" level="2" /><a name="战斗__特殊动作">特殊动作</a></h3>
+<div class="level3">
+
+<p>
+专心防御：标准动作，直到下一个自己的回合开始阶段，回避/格挡判定值+5，灵力回复翻倍。（注意先翻倍再向下取整，而不是先向下取整再翻倍）
+</p>
+
+<p>
+集中精神：消耗任意整轮，自动成功。每回合回复{感知}+{知性}点灵力。集中精神后立即进行的下一个动作，每集中一回合判定值+2d6，但总共不能超过&lt;技能等级&gt;/2或[法术等级]/2个d6。
+</p>
+
+<p>
+目标瞄准：你可以瞄准角色手持的道具或者其它东西。这种情况下，命中判定值-6，对方正常回避。如果成功命中，会将所瞄准的物品从角色手中击落，对方需要消耗一个移动动作以重新捡起它。同时，如果该目标有hp的话，造成对应的伤害值。
+</p>
+
+</div>
+
+<h3><bookmark content="名词解释" level="2" /><a name="战斗__名词解释">名词解释</a></h3>
+<div class="level3">
+
+<p>
+击退：目标后退n格，如果后面是不可通行区域，每还剩1击退，额外造成1d4伤害。如果该区域由可摧毁的障碍物构成，障碍物会受到相等的伤害。
+</p>
+
+<p>
+移动力：你一个移动动作能移动的距离，<strong>在进行完移动后</strong>，不足1的部分会无条件舍去。注意其中小数的部分，譬如你有2.5移动力，那么1次移动动作只能移动2格，次回合的一次移动动作依然只能移动2格。但如果你进行全回合移动（2次移动动作）那么可以移动5格。<br/>
+
+部分能力或法术会要求你进行半速移动。这种情况下移动力减半。
+</p>
+
+</div>
+
+<h3><bookmark content="关于HP" level="2" /><a name="战斗__关于hp">关于HP</a></h3>
+<div class="level3">
+
+<p>
+当一个角色的hp降为0以下时，角色就昏迷了。在昏迷状态下，角色每5分钟回复1hp。当角色的生命值降到-20以下时，角色身受重伤，不能自动回复hp，且每1小时需要进行一次目标值为18的耐力抵抗，失败的话角色会死亡。
+</p>
+
+<p>
+手下留情：你可以选择造成任意的比你理应造成的伤害值低的伤害。如4+2d3=7的话，你可以选择造成1~7的伤害。当角色即将因为你的一次伤害而昏迷时，你可以选择将其生命值降至0，此时角色会丧失战斗能力，但依旧保持意识可以交流。
+</p>
+
+<p>
+此外，当角色一次失去当前hp一半以上的生命值时，角色需进行一次目标值为14的耐力抵抗，如失败，角色由于伤重丧失一回合的行动权。
+</p>
+
+<p>
+在特殊情况下，角色可能会需要攻击自己。这种情况下算作自动成功，&lt;射击&gt;和&lt;近战&gt;的伤害骰可以选取任意自己喜欢的伤害值。在有反抗意志的情况下，攻击依然自动成功，但仍需要骰伤害骰。不能对自己使用连段，也不能通过攻击动作来击退自己（不然这太奇怪了）。
+</p>
+
+</div>
+
+<h2><bookmark content="硬度与伤害降低" level="1" /><a name="战斗__硬度与伤害降低">硬度与伤害降低</a></h2>
+<div class="level2">
+
+<p>
+一个有硬度或伤害降低（一般是50%）的单位，会受到较少的伤害。每有1硬度，在单hit伤害时，计算完伤害骰后受到的伤害-1。伤害降低计算的时间，是单hit伤害计算后，硬度计算前进行折算（一般是减半），不足1的部分均向下取整。伤害降低之间不能相互叠加，总是取最高者。<br/>
+
+连段中，每一次连段攻击算单独的1hit。在造成击退时，如果同时存在击退伤害和非击退伤害，那么二者相加算同一hit。<br/>
+
+部分效果造成的生命流失会无视硬度或伤害降低（如灵魂链接），请参考具体效果规则。
+</p>
+
+</div>
+
+<h2><bookmark content="关于物理性伤害" level="1" /><a name="战斗__关于物理性伤害">关于物理性伤害</a></h2>
+<div class="level2">
+
+<p>
+一些不计入普通攻击模式的其它物理性伤害，如被落石击中，或落入陷坑等等，如下处理。（注意幻想乡中即使是人类，身体素质也异于常人）
+</p>
+<ul>
+<li class="level1"><div class="li"> 对普通人类震慑程度的物理伤害：1d6伤害。如：被飞行的足球击中。</div>
+</li>
+<li class="level1"><div class="li"> 对普通人类造成轻微伤的物理伤害：2d6伤害。如：钝器重击非要害部位。</div>
+</li>
+<li class="level1"><div class="li"> 对普通人类造成轻伤的物理伤害：4d6伤害。如：从2楼高度跌落到硬质地面。</div>
+</li>
+<li class="level1"><div class="li"> 对普通人类造成重伤的物理伤害：8d6伤害。如：捕兽夹直击，被长钉刺穿腹部。</div>
+</li>
+<li class="level1"><div class="li"> 对普通人类直接致死的物理伤害：12d6伤害。如：被非洲象压在地上。</div>
+</li>
+<li class="level1"><div class="li"> 对普通人类无法衡量的伤害，直接粉碎到看不出原本物理形态：20d6或以上。如：1公斤TNT爆炸中心的伤害</div>
+</li>
+</ul>
+
+<p>
+注意弹幕战本身并不会导致严重的物理伤害，一般是可恢复的精神疲劳；而物理性伤害可能导致角色暂时无法正常活动，如手部受伤的角色可能暂时无法进行精密操作。这种情况下进行技能判定时，根据具体情况，GM可以进行一定的判定值补偿。
+</p>
+
+<p>
+由于物理性伤害而<strong>对角色生命造成严重威胁时</strong>，可以参考规则<a href="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4" class="wikilink1" title="限制解除">限制解除</a>。使用此规则时，<em><strong>会导致弹幕战立即落败</strong></em>，但角色的各项属性会得到极大增强。在角色生命未受到直接威胁情况下，原则上禁用此规则。
+</p>
+
+</div>
