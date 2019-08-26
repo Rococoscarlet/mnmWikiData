@@ -1,0 +1,108 @@
+<a name="角色__"></a>
+<h1><bookmark content="角色" level="0" /><a name="角色__角色">角色</a></h1>
+<div class="level1">
+
+<p>
+角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
+</p>
+
+</div>
+
+<h3><bookmark content="创建角色" level="1" /><a name="角色__创建角色">创建角色</a></h3>
+<div class="level3">
+
+<p>
+<br/>
+
+幻想乡中的少女<sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup>们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。<sup><a href="#fn__2" id="fnt__2" class="fn_top">2)</a></sup>
+</p>
+
+<p>
+ * <a href="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B#特性值" class="wikilink1" title="角色:特性值与体型">{特性值}</a>：用于描述少女的基础属性<br/>
+
+ * <a href="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F" class="wikilink1" title="角色:种族">种族</a> ：分类学上少女的种族<br/>
+
+ * <a href="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B" class="wikilink1" title="能力">【能力】</a>：  用于描述少女“引发超自然现象”的能力或者需要专门训练的特技<br/>
+
+ * <a href="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E6%8A%80%E8%83%BD" class="wikilink1" title="技能与生活:技能">&lt;技能&gt;</a> ： 用于描述少女日常生活中的技能<br/>
+
+</p>
+
+<p>
+少女可能天生属于强力的种族，或是长于一方面的属性。在你最希望少女擅长的方面，将其设置为A级；最不擅长的方面，设置为D级。以此类推，将“ABCD”分别分配到特性值、种族、能力、技能上，确定角色的大致倾向。
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<td class="col0 leftalign">     </td><th class="col1 centeralign">        A       </th><th class="col2 centeralign">         B     </th><th class="col3 centeralign">    C    </th><th class="col4 centeralign">    D    </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<th class="col0"> 特性值 </th><td class="col1 centeralign">  24  </td><td class="col2 centeralign">  22  </td><td class="col3 centeralign">  20  </td><td class="col4 centeralign">  18  </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0 leftalign" rowspan="2"> 种族   </th><td class="col1 centeralign">  吸血鬼·恶魔  </td><td class="col2 centeralign">  亡灵·天狗  </td><td class="col3 centeralign">  魔法使·河童  </td><td class="col4 centeralign">  人类·妖精  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign">        </td><td class="col1 centeralign">  妖怪·怪异  </td><td class="col2 centeralign">  付丧神·妖兽·月兔  </td><td class="col3 centeralign">   天邪鬼   </td>
+	</tr>
+	<tr class="row4">
+		<th class="col0 leftalign"> 能力   </th><td class="col1 centeralign">  30  </td><td class="col2 centeralign">  25  </td><td class="col3 centeralign">  20  </td><td class="col4 centeralign">  15  </td>
+	</tr>
+	<tr class="row5">
+		<th class="col0 leftalign"> 技能   </th><td class="col1 centeralign">  14  </td><td class="col2 centeralign">  12  </td><td class="col3 centeralign">  10  </td><td class="col4 centeralign">  8  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;1305-1668&quot;} -->
+</div>
+
+<h4><bookmark content="特性值" level="2" /><a name="角色__特性值">特性值</a></h4>
+<div class="level4">
+
+<p>
+特性值描述了少女的基础属性，其中包含{身体}{耐力}{知性}{感觉}{意志}共五项。五项特性值的初始值总和应为表中所查值，如“B”级的特性值应获得总计22点特性。
+</p>
+
+</div>
+
+<h4><bookmark content="种族" level="2" /><a name="角色__种族">种族</a></h4>
+<div class="level4">
+
+<p>
+角色的种族。种族有强有弱，而且会给予一定的特性值、能力或技能修正。如“D”级的种族，可以从人类、妖精或天邪鬼中选择一个。
+</p>
+
+</div>
+
+<h4><bookmark content="能力" level="2" /><a name="角色__能力">能力</a></h4>
+<div class="level4">
+
+<p>
+角色使用【阴阳术】【魔法】【属性使】【妖术】【锻炼】【连段】或者【特技】的能力。不同的系别间各有特色。
+</p>
+
+</div>
+
+<h4><bookmark content="技能" level="2" /><a name="角色__技能">技能</a></h4>
+<div class="level4">
+
+<p>
+包含战斗技能和生活技能两大类。战斗技能主要是增加射击、回避等战斗行动的成功率；生活技能会让角色的探索更加有效率，也是角色的一部分收入来源。
+</p>
+
+</div>
+
+<h4><bookmark content="其它" level="2" /><a name="角色__其它">其它</a></h4>
+<div class="level4">
+
+<p>
+每名少女都拥有不同的<a href="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8" class="wikilink1" title="角色:气质">气质</a>，以体现其角色倾向。除此之外，少女还可能持有一些装备或者魔法道具。
+</p>
+
+</div>
+<div class="footnotes">
+<div class="fn"><sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup> 
+<div class="content"><del>或者少年，或者老女人，或者玄爷，或者什么别的东西</del></div></div>
+<div class="fn"><sup><a href="#fnt__2" id="fn__2" class="fn_bot">2)</a></sup> 
+<div class="content">请注意我们使用的括号种类，如无特殊声明，对同种类属性均使用同种括号</div></div>
+</div>
