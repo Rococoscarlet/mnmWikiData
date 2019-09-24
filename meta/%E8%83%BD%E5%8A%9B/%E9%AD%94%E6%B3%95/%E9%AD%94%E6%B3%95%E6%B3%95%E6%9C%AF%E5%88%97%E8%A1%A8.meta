@@ -1,0 +1,17 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1569324472;s:8:"modified";i:1569324482;}s:7:"creator";s:4:"9cai";s:4:"user";s:4:"9cai";s:11:"last_change";a:8:{s:4:"date";i:1569324482;s:2:"ip";s:13:"106.39.42.116";s:4:"type";s:1:"E";s:2:"id";s:32:"能力:魔法:魔法法术列表";s:4:"user";s:4:"9cai";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:6;}s:11:"contributor";a:1:{s:4:"9cai";s:4:"9cai";}s:5:"title";s:12:"法术列表";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:12:"法术列表";s:5:"title";s:12:"法术列表";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:175:"法术列表
+
+目前每个里面都只有法术名称和大致效果，具体效果待恢复。。
+
+精神系
+
+咒法系
+
+变化系
+
+幻觉系
+
+命运系
+
+精灵系
+
+奥法系";}s:8:"relation";a:2:{s:10:"references";a:7:{s:23:"能力:魔法_精神系";b:0;s:23:"能力:魔法_咒法系";b:0;s:23:"能力:魔法_变化系";b:0;s:23:"能力:魔法_幻觉系";b:0;s:23:"能力:魔法_命运系";b:0;s:23:"能力:魔法_精灵系";b:0;s:23:"能力:魔法_奥法系";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1569324472;s:8:"modified";i:1569324482;}s:7:"creator";s:4:"9cai";s:4:"user";s:4:"9cai";s:11:"last_change";a:8:{s:4:"date";i:1569324482;s:2:"ip";s:13:"106.39.42.116";s:4:"type";s:1:"E";s:2:"id";s:32:"能力:魔法:魔法法术列表";s:4:"user";s:4:"9cai";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:6;}s:11:"contributor";a:1:{s:4:"9cai";s:4:"9cai";}}}
