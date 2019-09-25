@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://mnm.roscar.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://mnm.roscar.club/feed.php">
+        <title>少女与异变</title>
+        <description></description>
+        <link>http://mnm.roscar.club/</link>
+        <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-09-25T05:41:40+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8E%E4%B8%9C%E6%96%B9%E5%8D%83%E5%B9%BB%E6%8A%84%E7%9A%84%E5%8C%BA%E5%88%AB?rev=1551369017&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%9D%82%E9%A1%B9?rev=1551369388&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%88%98%E6%96%97?rev=1560240987&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%A0%B8%E5%BF%83%E8%A7%84%E5%88%99?rev=1551369445&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89?rev=1551369472&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%89%B9%E8%B4%A8?rev=1556262030&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%AC%A6%E5%8D%A1?rev=1551369569&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%AE%80%E6%98%93%E5%BB%BA%E5%8D%A1%E6%95%99%E7%A8%8B?rev=1551369586&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%B2%89%E7%BA%A2%E4%B9%A6?rev=1551369641&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B?rev=1551369696&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2?rev=1551369748&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%AF%85%E5%92%92%E6%AD%A6%E5%99%A8?rev=1555142667&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4?rev=1551369763&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/boss%E7%9B%B8%E5%85%B3?rev=1551368832&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/pvp?rev=1551368522&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/signaturemove?rev=1551368522&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/</link>
+        <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:49:15+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>下载</title>
+        <link>http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff</link>
+        <description>资源下载
+
+官方模组：摸鱼盒子的模组，甚至连鱼都不摸我也很绝望。
+
+规则历史版本.rar有些可能已经很老了，大规模改动有四五次吧，有兴趣甚至可以玩玩千幻抄+弹幕狂热的毫无平衡性可言的版本。（存在上传容量限制，然而我已经纯文本超出2M了，比较尬，暂缺）</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E4%B8%8E%E4%B8%9C%E6%96%B9%E5%8D%83%E5%B9%BB%E6%8A%84%E7%9A%84%E5%8C%BA%E5%88%AB?rev=1551369017&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:50:17+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>与东方千幻抄的区别</title>
+        <link>http://mnm.roscar.club/%E4%B8%8E%E4%B8%9C%E6%96%B9%E5%8D%83%E5%B9%BB%E6%8A%84%E7%9A%84%E5%8C%BA%E5%88%AB?rev=1551369017&amp;do=diff</link>
+        <description>与东方千幻抄的区别
+
+这里只是大面上的变化，具体细则请参考具体规则。数值变化和小变动忽略不计，太多了。
+
+角色建成
+
+ABCD不变，成长性大幅提升。符卡可以DIY，而不是从有限种类中选择。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:51:23+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>可选拓展</title>
+        <link>http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff</link>
+        <description>一些有的没的随便的东西
+
+rt，可选规则，啥都有，幻想乡乱斗指南。
+
+目前标志性动作已经完全实装，MH规则依然乱七八糟。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-11T13:38:47+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff</link>
+        <description>少女与异变
+      基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
+欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:54:32+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>技能与生活</title>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff</link>
+        <description>技能与生活
+
+使用技能要消耗一定的时间，根据情况从数秒到数小时都有可能。
+在战斗中，把物品从背包里拿出来、拿出/收起武器都是消耗移动动作。使用物品和技能一般是标准动作。
+总之。。。说不清楚，不少事。先这样。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:56:00+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>探索</title>
+        <link>http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff</link>
+        <description>探索
+
+在幻想乡中自由的探索，只要条件允许，你可以做任何能想到的事情。你的人物可能会想靠在门上偷听、搜索某个区域、跟老板讨价还价、与同伴谈话、跳过陷阱、移动或使用物品，或是攻击对手。不过请注意，你的所有决策都会直接影响你所控制的角色，诸如向红魔馆的吸血鬼发起正面挑战这种鲁莽行为，虽然是被允许的，但很可能会导致悲剧的后果。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%9D%82%E9%A1%B9?rev=1551369388&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:56:28+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>杂项</title>
+        <link>http://mnm.roscar.club/%E6%9D%82%E9%A1%B9?rev=1551369388&amp;do=diff</link>
+        <description>杂项
+
+移动速度
+
+在地面行走时速度为｛身体｝*1.5m/s，飞行时一般为{身体}or{知性}*3m/s
+
+负重
+
+请将角色{身体}X10千克的重量设定为“用两只手好不容易才抱起来的程度”。如果是在地面拖动的话，依路面情况可以增加到{身体}X15千克的程度。实际携带庞大物体时的回避或行动的惩罚。由GM根据实际情况决定。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%88%98%E6%96%97?rev=1560240987&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-11T08:16:27+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>战斗</title>
+        <link>http://mnm.roscar.club/%E6%88%98%E6%96%97?rev=1560240987&amp;do=diff</link>
+        <description>战斗
+
+幻想乡中的战斗主要以弹幕战的形式展开云云，需要更多描述性语句我不想写。
+
+战斗基础
+
+在战斗开始时，所有角色以{身体}+{感觉}+d20排序，决定一轮内的行动次序。每轮内，所有角色按照顺序各进行一次自己的回合。所有人的回合都处理完毕后，开始新的一轮。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%A0%B8%E5%BF%83%E8%A7%84%E5%88%99?rev=1551369445&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:57:25+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>核心规则</title>
+        <link>http://mnm.roscar.club/%E6%A0%B8%E5%BF%83%E8%A7%84%E5%88%99?rev=1551369445&amp;do=diff</link>
+        <description>基础判定
+
+当故事过程中，遇到“无法确定动作能否成功”的情况下，掷一枚20面的骰子（下简记d20），加上相关的补正值，与一个目标值进行比较。如果超过了目标值，那么动作就成功了。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89?rev=1551369472&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:57:52+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>猛汉</title>
+        <link>http://mnm.roscar.club/%E7%8C%9B%E6%B1%89?rev=1551369472&amp;do=diff</link>
+        <description>怪物猎人拓展
+
+**目前工事中，需要大量细化和平衡性调整，别用为好（**
+
+基于怪物猎人系列的拓展规则，主要丰富了武器系统，新增特技，新增动作，增加了更为详细的部位破坏规则。
+
+武器列表添加了原版的14种武器，细分为打击和斩击。注意并不是所有武器都能用于格挡。以及DP=体力条。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:59:12+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>版本历史</title>
+        <link>http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff</link>
+        <description>版本历史
+
+v1.26b:主要修订：新增了可选规则命名决斗，提供了多角色pvp相关的玩法。平衡性改动（减伤相关，无所畏惧消耗4→6）
+
+v1.26:主要修订：变形武器相关规则。新增一些彩蛋。
+
+v1.25:主要修订：新增气质和特技，修复了使魔相关的一些历史遗留问题，进行相关的内部平衡性调整。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%89%B9%E8%B4%A8?rev=1556262030&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-26T07:00:30+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>特质</title>
+        <link>http://mnm.roscar.club/%E7%89%B9%E8%B4%A8?rev=1556262030&amp;do=diff</link>
+        <description>特质
+
+无聊的产物，姑且先写下来。
+
+会是免费学习的东西，但天下没有免费的东西（确信）。
+
+暂时没有限制学习数量的想法。
+
+胸部相关
+
+还没想好怎么分类，随便写写，有待补充。
+
+贫乳</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%AC%A6%E5%8D%A1?rev=1551369569&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:59:29+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>符卡</title>
+        <link>http://mnm.roscar.club/%E7%AC%A6%E5%8D%A1?rev=1551369569&amp;do=diff</link>
+        <description>符卡
+
+在建成角色时，角色会获得创建2张符卡的权力。随着角色成长，还会获得更多的符卡。符卡在战斗中和非战斗中都可以使用，但同一张符卡在24小时内无法再次使用。
+
+在设定符卡时，需宣言符卡属于近战型，弹幕型，强化型或特殊型。获得符卡时，符卡除基础属性外，还会获得10个升级点数，可以用于该符卡的升级。角色有且仅有一张LSC，初始有15个升级点数，且不再受到可选能力种类数量的限制。当你额外获得新的符卡时，你可以选择不获得新符卡，转而获得10个升级点数，分配到任意已有符卡中。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%AE%80%E6%98%93%E5%BB%BA%E5%8D%A1%E6%95%99%E7%A8%8B?rev=1551369586&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:59:46+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>简易建卡教程</title>
+        <link>http://mnm.roscar.club/%E7%AE%80%E6%98%93%E5%BB%BA%E5%8D%A1%E6%95%99%E7%A8%8B?rev=1551369586&amp;do=diff</link>
+        <description>开始游戏
+
+欢迎来到幻想乡！
+
+为了体验幻想乡中的故事，您需要制作一名属于自己的角色，来进行游戏。在资源下载中可以找到必要的工具。
+
+除了适当的冒险者以外，一个好的故事也是不可或缺的。我们为您提供了数个</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E7%B2%89%E7%BA%A2%E4%B9%A6?rev=1551369641&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:00:41+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>粉红书</title>
+        <link>http://mnm.roscar.club/%E7%B2%89%E7%BA%A2%E4%B9%A6?rev=1551369641&amp;do=diff</link>
+        <description>这是一个orphan主题
+
+这个主题我反正不写，有兴趣再说。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B?rev=1551369696&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:01:36+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B?rev=1551369696&amp;do=diff</link>
+        <description>能力
+
+能力分阴阳术、魔法、属性使、妖术、连段、特技几类，其中类内又有细分。具体细则参考对应附录中每个系别自己的说明，此处列出了基本能力的学习消耗。
+
+等级    0→1    →2    →3</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2?rev=1551369748&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:02:28+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>角色</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2?rev=1551369748&amp;do=diff</link>
+        <description>角色
+
+角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
+
+创建角色
+
+
+
+幻想乡中的少女</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%AF%85%E5%92%92%E6%AD%A6%E5%99%A8?rev=1555142667&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-13T08:04:27+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>诅咒武器</title>
+        <link>http://mnm.roscar.club/%E8%AF%85%E5%92%92%E6%AD%A6%E5%99%A8?rev=1555142667&amp;do=diff</link>
+        <description>诅咒武器与诅咒道具
+
+描述性文字。
+
+初始点数0，剧情++，当且仅当建成角色时，可以用能力点换。不能解除。
+
+诅咒附加信条
+
+强烈的意念。
+
+诅咒特殊能力
+
+类法术能力/允许消耗基础属性来发动。效果与同等级[凋零术]相同。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4?rev=1551369763&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T16:02:43+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>限制解除</title>
+        <link>http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4?rev=1551369763&amp;do=diff</link>
+        <description>限制解除
+
+特殊规则，本规则当且仅当角色的生命受到明确急迫的威胁，或者在命名决斗法案以外的情况下使用力量时使用。
+
+使用这些规则，意味着打破幻想乡的最高法律，很可能会导致权力者的直接干涉。使用此规则所产生的一切后果自负。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/boss%E7%9B%B8%E5%85%B3?rev=1551368832&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:47:12+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>boss相关</title>
+        <link>http://mnm.roscar.club/boss%E7%9B%B8%E5%85%B3?rev=1551368832&amp;do=diff</link>
+        <description>boss使用的特殊规则
+
+在模组的构成过程中，很可能会出现多打一的情况，即常规所说的“boss战”。这种情况下，如果让boss使用一般的战斗规则，就算有等级优势，也很可能会被打爆。因此，需要引入一些特殊规则。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/pvp?rev=1551368522&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:42:02+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pvp</title>
+        <link>http://mnm.roscar.club/pvp?rev=1551368522&amp;do=diff</link>
+        <description>命名决斗
+
+PVP、多角色向扩展。规定了PL之间的一些对战协议。对于更热衷于战斗而非模组的玩家来说，可以从中找到更多的乐趣。背景故事不存在的，联系人啊探索交涉技能啊不存在的。
+
+角色建成与选出</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-29T09:04:32+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff</link>
+        <description>首页
+
+最近更改
+
+快速开始
+
+核心规则
+
+	*  探索
+
+	*  战斗
+
+	*  符卡
+
+	*  杂项
+
+	*  boss相关
+
+角色
+
+	* 特性值与体型
+
+	* 种族
+
+	* 气质
+
+	* 背景故事
+
+	* 成长
+
+	* 人物卡示例
+
+【能力】
+
+	*  法术通用规则
+
+	*  法术基本原则
+
+	*  阴阳术  
+				*  -阴阳术法术列表
+				*  -阴阳术进阶能力
+
+
+	*  魔法
+			*  -魔法法术列表
+			*  -魔法进阶能力
+
+
+	*  属性使
+			*  -属性使法术列表
+			*  -属性使进阶能力
+
+
+	*  妖术  
+			*  -妖术与妖力列表
+			*  -妖术进阶能力
+
+
+	*  锻炼与连段
+			*  -锻炼进阶能力
+			*  -天生武器与异形武器
+			*  -变形武器
+
+
+	*  构成弹幕
+
+	*  特技
+
+&lt;技能&gt;与生活
+
+	*  技能
+
+	*  装备
+
+	*  消耗品
+
+	*  文明利器…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/signaturemove?rev=1551368522&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:42:02+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>signaturemove</title>
+        <link>http://mnm.roscar.club/signaturemove?rev=1551368522&amp;do=diff</link>
+        <description>标志性动作拓展
+
+是不是希望你的角色有固定的必杀技？更灵活的战斗风格？或者什么个人的恶趣味设定？这里可以满足你DIY角色的需要。
+
+角色每一级可以确定一个新的标志性动作，已有的动作不能再更改。创建新动作的方法如下：</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T15:42:02+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>todo</title>
+        <link>http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff</link>
+        <description>待修改列表
+
+----------
+
+1、待修改条目
+
+现在内容：
+
+修改原因：
+
+建议修改结果：
+
+FIXME
+
+死灵系法术还要差不多6~7个？问题比较多
+
+更多武器支持，双持武器，变形武器等等。武器细分希望。
+
+todo</description>
+    </item>
+</rdf:RDF>

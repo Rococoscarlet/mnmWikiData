@@ -11,16 +11,17 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-04-03T17:23:26+0000</dc:date>
+       <dc:date>2019-09-25T05:44:21+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E7%81%B5%E5%85%89?rev=1556537003&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95?rev=1551370371&amp;do=diff"/>
             </rdf:Seq>
         </items>
@@ -66,6 +67,16 @@
 
 （对应能力限【阴阳术】/【魔法】/【属性使】/【射击锻炼】，魔法道具、符卡等临时补正的等级不计算在内）</description>
     </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E7%81%B5%E5%85%89?rev=1556537003&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-29T11:23:23+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:法术灵光</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E7%81%B5%E5%85%89?rev=1556537003&amp;do=diff</link>
+        <description>法术基本原则
+
+此处介绍在进行施法、延续效果、法术效果对抗时采用的基本原则，这一原则主要用于对复杂的进行施法、延续、对抗等操作能否成立进行基本性的定义。此处的规则不涉及具体的数值设计，仅给出合理性或可能性。在一般情况下，按照规则所述判定即可。</description>
+    </item>
     <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2019-02-28T16:10:51+0000</dc:date>
@@ -108,12 +119,12 @@ HP：1点+0.1hp系数
 
 使角色熟练地使用武器的能力。选择一种具体的武器进行锻炼。如【射击锻炼：标枪】或【近战锻炼：日本刀】。使用同类型的武器时锻炼等级视作不变（如：刀与附魔的刀），不同武器间的锻炼无法通用。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:12:21+0000</dc:date>
+        <dc:date>2019-06-12T07:15:55+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:阴阳术</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1551370341&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff</link>
         <description>神术·阴阳术的习得
 
 【神术·阴阳术】可以消耗能力点数来习得和提升。

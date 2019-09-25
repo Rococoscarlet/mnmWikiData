@@ -11,9 +11,11 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-03-02T12:43:43+0000</dc:date>
+       <dc:date>2019-09-25T05:44:37+0000</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560244132&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560243945&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -22,4 +24,35 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560244132&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-11T09:08:52+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:阴阳术:阴阳术法术列表</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560244132&amp;do=diff</link>
+        <description>阴阳术法术列表
+
+阴阳术的法术列表，分为结界类法术和一般法术。下述[法术等级]为【阴阳术】、【阴阳术（术式）】中较高的一个。
+
+阴阳术：结界类
+
+----------
+  禁域结界    环数：2    灵力消耗：5</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560243945&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-11T09:05:45+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:阴阳术:阴阳术进阶能力</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF/%E9%98%B4%E9%98%B3%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560243945&amp;do=diff</link>
+        <description>阴阳术进阶能力
+
+当且仅当角色已经习得了超过3级的【阴阳术】或【阴阳术·术式】时，才能学习以下的能力。
+
+封魔针
+
+习得能力消耗：5点。使用阴阳术的力量，封印对手的灵力流动。
+
+在你进行&lt;射击&gt;时，你可以额外消耗0.5标动和2灵力，进行封魔针的射击。判定值不变。当命中时，不计【阴阳术】造成的能力伤害骰，每减少了一个伤害骰，对方的灵力-1（但不小于0），且直到下个目标回合的结束阶段，目标施法判定值-1。…</description>
+    </item>
 </rdf:RDF>
