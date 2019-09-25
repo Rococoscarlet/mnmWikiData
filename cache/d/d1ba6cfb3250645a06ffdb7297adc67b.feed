@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://mnm.roscar.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://mnm.roscar.club/feed.php">
+        <title>少女与异变 能力:锻炼与连段</title>
+        <description></description>
+        <link>http://mnm.roscar.club/</link>
+        <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-09-25T05:45:40+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/</link>
+        <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-12T06:34:07+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段:变形武器</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff</link>
+        <description>变形武器
+
+通过魔法或机械结构切换形态，以使同一把武器产生不同的结构，进而衍生出不同的战斗方式。为了支持这类的设定，产生的规则。
+
+变形武器的制作
+
+在制作变形武器时，需要提前声明制作共几种形态的武器。每增加一种形态，锻造价格+2円；如果新形态的种类不同于任意一种老的形态，再额外加1円（如：近战武器与射击武器）。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:33:07+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段:天生武器与异形武器</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff</link>
+        <description>天生武器与异形武器
+
+天生武器
+
+爪子之类的，并非用金钱购买而是天生就有的，使用能力点购买，对应的锻炼降价，而且可以有常在的法术效果（如：有毒的爪子）
+
+异形武器
+
+成龙会使用的武器</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-12T09:35:49+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段:锻炼进阶能力</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff</link>
+        <description>锻炼的风格
+
+经年累月的战斗使你的武技产生了明显的风格倾向。
+
+任意一种【锻炼】等级3或以上的情况下才可以习得，只能从下列中选择一个。如果对不同的武器均有超过3级的【锻炼】，那么可以习得不同的锻炼风格。</description>
+    </item>
+</rdf:RDF>

@@ -7,14 +7,14 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel rdf:about="http://mnm.roscar.club/feed.php">
-        <title>少女与异变 下载</title>
+        <title>少女与异变 playground</title>
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:48:26+0000</dc:date>
+       <dc:date>2019-09-25T05:48:04+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/playground/playground?rev=1553449640&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,12 +23,17 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/playground/playground?rev=1553449640&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:03:55+0000</dc:date>
+        <dc:date>2019-03-24T17:47:20+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
-        <title>下载:官方模组</title>
-        <link>http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff</link>
-        <description>滥竽充数.jpg</description>
+        <title>playground:playground</title>
+        <link>http://mnm.roscar.club/playground/playground?rev=1553449640&amp;do=diff</link>
+        <description>实验室
+
+请在这里进行尝试
+
+二级目录丢失中
+更多内容需要更新</description>
     </item>
 </rdf:RDF>

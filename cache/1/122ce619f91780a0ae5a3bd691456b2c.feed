@@ -7,14 +7,14 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel rdf:about="http://mnm.roscar.club/feed.php">
-        <title>少女与异变 下载</title>
+        <title>少女与异变 限制解除</title>
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:48:26+0000</dc:date>
+       <dc:date>2019-09-25T05:49:13+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,12 +23,18 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:03:55+0000</dc:date>
+        <dc:date>2019-02-28T16:13:57+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
-        <title>下载:官方模组</title>
-        <link>http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD/%E5%AE%98%E6%96%B9%E6%A8%A1%E7%BB%84?rev=1551369835&amp;do=diff</link>
-        <description>滥竽充数.jpg</description>
+        <title>限制解除:专属法术</title>
+        <link>http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4/%E4%B8%93%E5%B1%9E%E6%B3%95%E6%9C%AF?rev=1551370437&amp;do=diff</link>
+        <description>专属法术
+
+以造成永久性伤害，甚至是杀人为目标的法术，在此列出。
+
+使用时，法术等级根据描述确定。这些法术只需要描述中的法术等级&gt;法术环数就能使用，不需要消耗法术位习得。
+
+----------</description>
     </item>
 </rdf:RDF>

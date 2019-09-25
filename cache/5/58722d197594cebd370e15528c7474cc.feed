@@ -11,9 +11,18 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-03-02T12:45:07+0000</dc:date>
+       <dc:date>2019-09-25T05:45:03+0000</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -22,4 +31,128 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:06:23+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:变化系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff</link>
+        <description>变化系法术列表
+
+法术等级为【魔法】+【专精：变化系】
+
+----------
+  变形术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:20:28+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:命运系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff</link>
+        <description>命运系法术列表
+
+命运系法术均不能被抵抗
+
+----------
+  预见术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  窥探未来的一瞥的法术。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:11:38+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:咒法系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff</link>
+        <description>咒法系法术列表
+
+法术等级为【魔法】+【专精：咒法系】
+
+----------
+  轻伤治疗术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:26:09+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:奥法系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff</link>
+        <description>奥法系法术列表
+
+----------
+  护盾术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  生成魔法的护盾的法术。  
+----------</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T15:17:08+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:幻觉系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff</link>
+        <description>幻觉系法术列表
+
+----------
+  幻影术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  制造重复的幻影的法术。  
+----------</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-25T05:32:06+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:精灵系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff</link>
+        <description>精灵系法术列表
+
+在习得本系时，选择一个属性。不同属性的【魔法：精灵系】算作不同的系别，第二次习得【魔法：精灵系】时可以选择额外的两个属性（共3个），第三次时可以选择4个属性（共7个），以此类推。不同属性的【魔法：精灵系】不共享专精等级。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T11:59:03+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:精神系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff</link>
+        <description>精神系法术列表
+
+法术等级为【魔法】+【专精：精神系】
+
+----------
+  情绪术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-24T11:58:50+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:魔法法术列表</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff</link>
+        <description>法术列表
+
+目前每个里面都只有法术名称和大致效果，具体效果待恢复。。
+
+精神系
+
+咒法系
+
+变化系
+
+幻觉系
+
+命运系
+
+精灵系
+
+奥法系</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-12T07:41:47+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>能力:魔法:魔法进阶能力</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff</link>
+        <description>魔法的进阶能力
+
+当【魔法】等级达到lv3以上时，就可以学习炼金术了，消耗5点能力值。通过炼金，你可以制造魔药，或是生产全新的魔法道具。
+
+魔药学
+
+每一级【魔法】，你可以学会一种新的魔药的制法。魔药的种类不一定是你已经习得的法术。</description>
+    </item>
 </rdf:RDF>
