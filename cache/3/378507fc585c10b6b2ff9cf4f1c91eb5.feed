@@ -11,28 +11,28 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:41:39+0000</dc:date>
+       <dc:date>2019-10-05T21:51:02+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569339718&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569339105&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560259604&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1569765651&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569765030&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569750234&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -41,22 +41,257 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-25T05:32:06+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:精灵系</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%81%B5%E7%B3%BB?rev=1569389526&amp;do=diff</link>
-        <description>精灵系法术列表
+        <dc:date>2019-10-02T03:47:33+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff</link>
+        <description>首页
 
-在习得本系时，选择一个属性。不同属性的【魔法：精灵系】算作不同的系别，第二次习得【魔法：精灵系】时可以选择额外的两个属性（共3个），第三次时可以选择4个属性（共7个），以此类推。不同属性的【魔法：精灵系】不共享专精等级。</description>
+最近更改
+
+快速开始
+
+核心规则
+
+	*  探索
+
+	*  战斗
+
+	*  符卡
+
+	*  杂项
+
+	*  boss相关
+
+角色
+
+	* 特性值与体型
+
+	* 种族
+
+	* 气质
+
+	* 背景故事
+
+	* 成长
+
+	* 人物卡示例
+
+【能力】
+
+	*  法术通用规则
+
+	*  法术基本原则
+
+	*  阴阳术  
+				*  -阴阳术法术列表
+				*  -阴阳术进阶能力
+
+
+	*  魔法
+			*  -魔法法术列表
+			*  -魔法进阶能力
+
+
+	*  属性使
+			*  -属性使法术列表
+			*  -属性使进阶能力
+
+
+	*  妖术  
+			*  -妖术与妖力列表
+			*  -妖术进阶能力
+
+
+	*  锻炼与连段
+			*  -锻炼进阶能力
+			*  -天生武器与异形武器
+			*  -变形武器
+
+
+	*  构成弹幕
+
+	*  特技
+
+&lt;技能&gt;与生活
+
+	*  技能
+
+	*  装备
+
+	*  消耗品
+
+	*  文明利器…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569339718&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:41:58+0000</dc:date>
+        <dc:date>2019-10-02T03:44:15+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>形象部分 - 创建</title>
+        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff</link>
+        <description>形象部分
+
+开始之前
+
+幻想乡中的少女们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-10-02T03:20:12+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>如何从头开始建立角色</title>
+        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff</link>
+        <description>创立属于你的角色
+
+角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
+
+虽然对东方project有一定了解的玩家们可能会对幻想乡中各式各样的角色非常熟悉，不过在MNM的世界里，玩家们将扮演一个全新的人物，她有着自己的外貌和种族，有着自己的能力，甚至有着自己的符卡……而本篇章的规则将带领你从头开始建立一个人物。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T10:30:50+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>专业术语 - 创建</title>
+        <link>http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff</link>
+        <description>在阅读规则前，我们会将在本规则有关的专有名词在这里进行解释。从未接触过MNM的玩家们，在确认具体规则前先搞清楚这些词的含义会让角色的建立更加轻松。
+
+GM
+
+游戏主持人（GameMaster）的略称，是这个游戏的主持人玩家，负责处理游戏中的各种描述和数据、判定规则等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T10:03:46+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>何为mnm</title>
+        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff</link>
+        <description>欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T09:46:51+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>概述篇章 - 创建</title>
+        <link>http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff</link>
+        <description>其一.妖怪能轻松发动异变
+
+其一.人类能轻松解决异变
+
+其一.否定完全的实力主义
+
+其一.没有东西能胜过美丽与思念
+
+
+ ————《命名决斗法案》</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T17:39:29+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>todo</title>
+        <link>http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff</link>
+        <description>待修改列表
+
+----------
+
+1、待修改条目
+
+现在内容：
+
+修改原因：
+
+建议修改结果：
+
+FIXME
+
+死灵系法术还要差不多6~7个？问题比较多
+
+更多武器支持，双持武器，变形武器等等。武器细分希望。
+
+todo</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T17:32:19+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>技能与生活:遗产</title>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff</link>
+        <description>遗产
+
+不一定是遗产，是角色并非经由购买、积累等获取的初始资源（如家传的宝刀，祖上的豪宅，发给月兔的制式装备等）。必须在建成角色时决定，无法通过成长获得。
+
+一般而言，可以消费1技能点来获取等价于4円的资源。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T17:17:54+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff</link>
+        <description>锻炼与连段
+
+熟练的使用武器和连续攻击的能力。
+等级    0→1    →2    →3    →4    →5    →6  锻炼    4    6    8    10    10    10  连段    10    10    10    10    10    10  
+锻炼
+
+使角色熟练地使用武器的能力。选择一种具体的武器进行锻炼。如【射击锻炼：标枪】或【近战锻炼：日本刀】。使用同类型的武器时锻炼等级视作不变（如：刀与附魔的刀），不同武器间的锻炼无法通用。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T14:52:40+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段:锻炼进阶能力</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff</link>
+        <description>锻炼的风格
+
+经年累月的战斗使你的武技产生了明显的风格倾向。
+
+任意一种【锻炼】等级3或以上的情况下才可以习得，只能从下列中选择一个。如果对不同的武器均有超过3级的【锻炼】，那么可以习得不同的锻炼风格。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T14:26:01+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>能力:锻炼与连段:天生武器与异形武器</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff</link>
+        <description>天生武器与异形武器
+
+天生武器
+
+爪子之类的，并非用金钱购买而是天生就有的，使用能力点购买，对应的锻炼降价，而且可以有常在的法术效果（如：有毒的爪子）
+
+异形武器
+
+不能简单的用上述分类概括的武器，包含复合武器（同时包含近战和射击功能的武器）、临时武器（啤酒瓶桌子腿之类）、非伤害类武器（鱼竿、捕网等）等等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T14:08:40+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>角色:种族</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff</link>
+        <description>种族
+
+在幻想乡中，各种各样种族的生物关注和谐、谋求发展一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1569765651&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T14:00:51+0000</dc:date>
+        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
+        <title>技能与生活:装备</title>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E8%A3%85%E5%A4%87?rev=1569765651&amp;do=diff</link>
+        <description>装备
+
+普通的可以买到装备，包括近战武器、射击武器和护身符三类。请注意！魔法和阴阳术的释放可能会需要姿势成分，因此无法在持有武器时施法！但可以正常使用护身符、真实之物等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569765030&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-29T13:50:30+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
         <title>能力:妖术:妖术与妖力列表</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569339718&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E4%B8%8E%E5%A6%96%E5%8A%9B%E5%88%97%E8%A1%A8?rev=1569765030&amp;do=diff</link>
         <description>妖术与妖力
 
 妖力
@@ -69,198 +304,51 @@
 
 	*  习得时，需从哺乳类，鸟类，虫类与甲壳类，两栖类与爬行类，鱼类中选择一个。该分类下所属的生物即被视为可以交谈。对话大致基于传心术之类的心灵感应，但如果可以的话，动物会在交谈时发出叫声。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569750234&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:33:07+0000</dc:date>
+        <dc:date>2019-09-29T09:43:54+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:锻炼与连段:天生武器与异形武器 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff</link>
-        <description>天生武器与异形武器
-
-天生武器
-
-爪子之类的，并非用金钱购买而是天生就有的，使用能力点购买，对应的锻炼降价，而且可以有常在的法术效果（如：有毒的爪子）
-
-异形武器
-
-成龙会使用的武器</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569339105&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:31:45+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:妖术:妖术进阶能力 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF/%E5%A6%96%E6%9C%AF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569339105&amp;do=diff</link>
-        <description>妖术的进阶能力
-
-常在化：法术同时获得类法术异能。比如，常在隐身术会让你的存在感变得更稀薄。
-
-妖异化：让你的法术更高度的可DIY
-
-隐去真名：在被识破前大幅提升属性值。
-
-奇怪的东西：高度DIY的奇怪的东西</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:26:09+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:奥法系 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569338769&amp;do=diff</link>
+        <title>能力:魔法:奥法系</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%A5%A5%E6%B3%95%E7%B3%BB?rev=1569750234&amp;do=diff</link>
         <description>奥法系法术列表
 
 ----------
-  护盾术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  生成魔法的护盾的法术。  
-----------</description>
+  护盾术    环数：2    灵力消耗：6    法术成分：姿势、语言    施法时间：1标准动作    施法距离：30m    目标：不大于一角色的目标    持续时间：[法术等级]回合/分钟</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:20:28+0000</dc:date>
+        <dc:date>2019-09-29T08:49:53+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:命运系 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%91%BD%E8%BF%90%E7%B3%BB?rev=1569338428&amp;do=diff</link>
-        <description>命运系法术列表
+        <title>能力:妖术</title>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff</link>
+        <description>妖术的学习
 
-命运系法术均不能被抵抗
+妖术从规则上可以看做是将魔法的每个法术分别视为独立的能力而习得的东西。不过也有若干妖术特有的能力。除非与属性使组合，否则人类无法习得妖术。
 
-----------
-  预见术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  窥探未来的一瞥的法术。</description>
+妖术的主属性为{智力}，默认不需法术成分，只要移动手指的程度即可发动。其灵力消耗为对应法术的一半（向下取整，但不低于1）。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:17:08+0000</dc:date>
+        <dc:date>2019-09-29T03:42:37+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:幻觉系</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%B9%BB%E8%A7%89%E7%B3%BB?rev=1569338228&amp;do=diff</link>
-        <description>幻觉系法术列表
+        <title>角色:气质</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff</link>
+        <description>气质
 
-----------
-  幻影术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？  制造重复的幻影的法术。  
-----------</description>
+当建立一个新角色时，可以免费为你的角色选择一个气质，这个气质决定了角色的战斗倾向或者人物特点。
+
+台风（强袭）
+
+身体+2
+
+近战达成值+2，自己和自己攻击的目标格挡成功减伤变为【锻炼】*2,格挡失败不再减伤。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:11:38+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:咒法系</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%92%92%E6%B3%95%E7%B3%BB?rev=1569337898&amp;do=diff</link>
-        <description>咒法系法术列表
-
-法术等级为【魔法】+【专精：咒法系】
-
-----------
-  轻伤治疗术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:06:23+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:变化系 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E5%8F%98%E5%8C%96%E7%B3%BB?rev=1569337583&amp;do=diff</link>
-        <description>变化系法术列表
-
-法术等级为【魔法】+【专精：变化系】
-
-----------
-  变形术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T11:59:03+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:精神系 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E7%B3%BB?rev=1569326343&amp;do=diff</link>
-        <description>精神系法术列表
-
-法术等级为【魔法】+【专精：精神系】
-
-----------
-  情绪术    环数：？    灵力消耗：？    法术成分：？    施法时间：？    施法距离：？    目标：？    持续时间：？    豁免鉴定: ？</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T11:58:50+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:魔法法术列表</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569326330&amp;do=diff</link>
-        <description>法术列表
-
-目前每个里面都只有法术名称和大致效果，具体效果待恢复。。
-
-精神系
-
-咒法系
-
-变化系
-
-幻觉系
-
-命运系
-
-精灵系
-
-奥法系</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T11:01:45+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:属性使:属性使法术列表</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff</link>
-        <description>属性使法术列表
-
-属性使的法术列表，分为基础法术和进阶法术。下述[法术等级]为【属性使】。
-
-基础法术只要习得了1级的【属性使】都可以使用，追加法术需要单独习得。
-
-基础法术
-
-----------</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T09:35:49+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:锻炼与连段:锻炼进阶能力</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff</link>
-        <description>锻炼的风格
-
-经年累月的战斗使你的武技产生了明显的风格倾向。
-
-任意一种【锻炼】等级3或以上的情况下才可以习得，只能从下列中选择一个。如果对不同的武器均有超过3级的【锻炼】，那么可以习得不同的锻炼风格。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T07:41:47+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:魔法:魔法进阶能力 - 创建</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95/%E9%AD%94%E6%B3%95%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560325307&amp;do=diff</link>
-        <description>魔法的进阶能力
-
-当【魔法】等级达到lv3以上时，就可以学习炼金术了，消耗5点能力值。通过炼金，你可以制造魔药，或是生产全新的魔法道具。
-
-魔药学
-
-每一级【魔法】，你可以学会一种新的魔药的制法。魔药的种类不一定是你已经习得的法术。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T07:15:55+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:阴阳术</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff</link>
-        <description>神术·阴阳术的习得
-
-【神术·阴阳术】可以消耗能力点数来习得和提升。
-
-使用【神术·阴阳术】的各个法术前，必须单独习得其法术。每【神术·阴阳术】等级可以习得2个法术。在习得阴阳术时，你额外选择一个【魔法】系别（包括精灵系），你每级的2个法术位，至多有1个，可以习得那个魔法系别的法术，法术等级视为【神术·阴阳术】。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T06:34:07+0000</dc:date>
+        <dc:date>2019-09-28T16:28:08+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
         <title>能力:锻炼与连段:变形武器</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff</link>
         <description>变形武器
 
 通过魔法或机械结构切换形态，以使同一把武器产生不同的结构，进而衍生出不同的战斗方式。为了支持这类的设定，产生的规则。
@@ -269,39 +357,12 @@
 
 在制作变形武器时，需要提前声明制作共几种形态的武器。每增加一种形态，锻造价格+2円；如果新形态的种类不同于任意一种老的形态，再额外加1円（如：近战武器与射击武器）。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T06:25:15+0000</dc:date>
+        <dc:date>2019-09-25T06:54:44+0000</dc:date>
         <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>角色:种族</title>
-        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff</link>
-        <description>种族
-
-在幻想乡中，各种各样种族的生物关注和谐、谋求发展一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-11T13:38:47+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>少女与异变 - [鸣谢] </title>
-        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff</link>
-        <description>少女与异变
-      基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
-欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560259604&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-06-11T13:26:44+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:属性使:属性使进阶能力</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560259604&amp;do=diff</link>
-        <description>属性使的进阶能力
-
-当[属性使]等级大于3时，可以和GM申请自己的进阶能力，也可以从下列中选择一个。
-
-进阶能力的施法自动成功，一天只能使用一次。
-
-----------
-  星之领域    [属性使] [星]</description>
+        <title>封面图.jpg - 创建</title>
+        <link>http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://mnm.roscar.club/_media/%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg?w=500&amp;h=500&amp;t=1569394484&amp;amp;tok=30bd1b&quot; alt=&quot;封面图.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>
