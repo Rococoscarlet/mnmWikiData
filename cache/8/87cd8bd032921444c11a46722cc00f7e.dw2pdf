@@ -1,0 +1,392 @@
+<a name="能力魔法奥法系__"></a>
+<h1><bookmark content="奥法系法术列表" level="0" /><a name="能力魔法奥法系__奥法系法术列表">奥法系法术列表</a></h1>
+<div class="level1">
+<hr />
+<div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>护盾术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：6  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：不大于一角色的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合/分钟  </td><td class="col3 centeralign">  豁免鉴定: 精神豁免  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">生成魔法的护盾的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;45-358&quot;} -->
+<p>
+目标获得[法术等级]*2点回避、格挡、抵抗的判定加值。
+</p>
+<ul>
+<li class="level1"><div class="li"> 对于无自主意识的目标依然适用</div>
+</li>
+<li class="level1"><div class="li"> 在有此法术情况下被击中或因为此法术的加值才判定成功的情况下，进行一次精神豁免。如果豁免成功，[护盾术]解消。</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：并获得[法术等级]点硬度。
+</p>
+<hr />
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>切裂术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：0  </td><td class="col1 centeralign">  灵力消耗：1  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：即时动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">强化近战攻击的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;725-977&quot;} -->
+<p>
+自动成功，仅当你进行近战动作时才能使用，视为用魔法进行强化的近战攻击。当次攻击额外获得[法术等级]个伤害骰。
+</p>
+<ul>
+<li class="level1"><div class="li"> 需要在命中前进行宣言</div>
+</li>
+<li class="level1"><div class="li"> 每Hit攻击会消耗2点灵力，不能对同一hit多次宣言使用此法术</div>
+</li>
+<li class="level1"><div class="li"> 此方法获得的伤害骰不是能力伤害骰</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：这个攻击无视目标不超过[法术等级]点硬度。
+</p>
+<hr />
+<div class="table sectionedit3"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>魔弹术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：0  </td><td class="col1 centeralign">  灵力消耗：1  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：即时动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">强化射击的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;1413-1659&quot;} -->
+<p>
+自动成功，仅当你进行近战动作时才能使用，视为用魔法进行强化的射击攻击。当次攻击额外获得[法术等级]个伤害骰。
+</p>
+<ul>
+<li class="level1"><div class="li"> 需要在命中前进行宣言</div>
+</li>
+<li class="level1"><div class="li"> 每Hit攻击会消耗2点灵力，不能对同一hit多次宣言使用此法术</div>
+</li>
+<li class="level1"><div class="li"> 此方法获得的伤害骰不是能力伤害骰</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：这个攻击获得[法术等级]点判定值补正。
+</p>
+<hr />
+<div class="table sectionedit4"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>魔爆术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：6  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 体质豁免  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">造成范围伤害并击退目标的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;2091-2377&quot;} -->
+<p>
+在自身周围5*5格（半径10m）范围内产生剧烈爆炸。
+</p>
+<ul>
+<li class="level1"><div class="li"> 对自身以外的所有合理目标（包括队友）造成[法术等级]*2点伤害。</div>
+</li>
+<li class="level1"><div class="li"> 在3*3格（5m）内的角色，额外受到[法术等级]d6的伤害，并向远离爆炸中心方向击退1格。</div>
+</li>
+<li class="level1"><div class="li"> 这个伤害不可回避或格挡</div>
+</li>
+<li class="level1"><div class="li"> 针对击退效果，目标可以进行一次目标值为10+[法术等级]的体质豁免，以避免后退。</div>
+</li>
+<li class="level1"><div class="li"> 目标的体型相较于施法者每大一级，[法术等级]视为+2</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：击退效果的抵抗难度提升为12+[法术等级]*2，击退距离提升为2
+</p>
+<hr />
+<div class="table sectionedit5"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>飞弹术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：1  </td><td class="col1 centeralign">  灵力消耗：2  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：不大于一角色的目标  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">发射魔法的飞弹攻击目标的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;3012-3298&quot;} -->
+<p>
+进行了一次类似射击的动作，但不使用&lt;射击&gt;。
+</p>
+<ul>
+<li class="level1"><div class="li"> 判定值为{知性}+[法术等级]*2，伤害为{知性}+[法术等级]d3</div>
+</li>
+<li class="level1"><div class="li"> 这仍然是一次施法动作！</div>
+</li>
+<li class="level1"><div class="li"> 不能用射击武器来辅助判定，而是用法杖等。</div>
+</li>
+<li class="level1"><div class="li"> 不能进入连段，不能触发梅雨等。</div>
+</li>
+<li class="level1"><div class="li"> 特别的，可以和[魔弹术]一同使用</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：去除姿势成分
+</p>
+<hr />
+<div class="table sectionedit6"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>奥术魔刃</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：1  </td><td class="col1 centeralign">  灵力消耗：2  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：5m  </td><td class="col1 centeralign">  目标：不大于一角色的目标  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">使用魔法的利刃攻击目标的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;3707-3995&quot;} -->
+<p>
+进行了一次类似近战的动作，但不使用&lt;近战&gt;。
+</p>
+<ul>
+<li class="level1"><div class="li"> 判定值为{知性}+[法术等级]*2，伤害为{知性}+[法术等级]d6</div>
+</li>
+<li class="level1"><div class="li"> 这仍然是一次施法动作！</div>
+</li>
+<li class="level1"><div class="li"> 不能用近战武器来辅助判定，而是用法杖等。</div>
+</li>
+<li class="level1"><div class="li"> 不能进入连段等。</div>
+</li>
+<li class="level1"><div class="li"> 特别的，可以和[切裂术]一同使用</div>
+</li>
+</ul>
+<hr />
+<div class="table sectionedit7"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>魔能涌动</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：1  </td><td class="col1 centeralign">  灵力消耗：3  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：0.5标准动作  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">调整自身的魔力循环，强化本回合中的法术效果。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;4329-4623&quot;} -->
+<p>
+仅限本回合中，你的其它法术获得额外的[魔能涌动]/2级。
+</p>
+<ul>
+<li class="level1"><div class="li"> 当你已经处于这个效果影响下时，你不能再次释放这个法术</div>
+</li>
+<li class="level1"><div class="li"> 发动了此法术后插动的情况，效果持续到第一次处理自己的回合结束阶段</div>
+</li>
+</ul>
+<hr />
+<div class="table sectionedit8"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>警报术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">让施法者超视距获得信息的法术，可以用来制造连锁触发陷阱。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;4894-5181&quot;} --><hr />
+<div class="table sectionedit9"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>鹰眼术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">制造一个窥探远方的视点的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;5190-5438&quot;} --><hr />
+<div class="table sectionedit10"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>侦测术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">侦查法术灵光的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;5446-5679&quot;} --><hr />
+<div class="table sectionedit11"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>感知术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">寻找生命体征的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;5687-5920&quot;} --><hr />
+<div class="table sectionedit12"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>转灵术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">将灵力转移到其它角色上的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;5928-6176&quot;} --><hr />
+<div class="table sectionedit13"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>解析术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">分析法术成分和魔法道具的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table12&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;6184-6432&quot;} --><hr />
+<div class="table sectionedit14"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>法术反制</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：5  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">抵消正在发动中的目标法术效果的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table13&quot;,&quot;secid&quot;:14,&quot;range&quot;:&quot;6440-6700&quot;} --><hr />
+<div class="table sectionedit15"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>隐匿术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">隐藏自身法术灵光的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table14&quot;,&quot;secid&quot;:15,&quot;range&quot;:&quot;6708-6947&quot;} --><hr />
+<div class="table sectionedit16"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>驱散术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">驱散持续性法术效果的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table15&quot;,&quot;secid&quot;:16,&quot;range&quot;:&quot;6955-7197&quot;} --><hr />
+<div class="table sectionedit17"><table class="inline">
+	<tr class="row0">
+		<th class="col0 centeralign" colspan="4">  <strong>封印术</strong>  </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0 centeralign">  环数：6  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign" colspan="4">封印目标施法能力的法术。  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table16&quot;,&quot;secid&quot;:17,&quot;range&quot;:&quot;7205-7444&quot;} -->
+</div>
