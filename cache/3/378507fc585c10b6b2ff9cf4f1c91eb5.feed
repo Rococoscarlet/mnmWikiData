@@ -11,7 +11,7 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-10-05T21:51:02+0000</dc:date>
+       <dc:date>2019-10-05T23:57:06+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff"/>
