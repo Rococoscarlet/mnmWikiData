@@ -11,20 +11,25 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:41:40+0000</dc:date>
+       <dc:date>2019-10-21T01:11:25+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8E%E4%B8%9C%E6%96%B9%E5%8D%83%E5%B9%BB%E6%8A%84%E7%9A%84%E5%8C%BA%E5%88%AB?rev=1551369017&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1569667919&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%9D%82%E9%A1%B9?rev=1551369388&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%88%98%E6%96%97?rev=1560240987&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%A0%B8%E5%BF%83%E8%A7%84%E5%88%99?rev=1551369445&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89?rev=1551369472&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1569571336&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%89%B9%E8%B4%A8?rev=1556262030&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%AC%A6%E5%8D%A1?rev=1551369569&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%AE%80%E6%98%93%E5%BB%BA%E5%8D%A1%E6%95%99%E7%A8%8B?rev=1551369586&amp;do=diff"/>
@@ -35,9 +40,9 @@
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4?rev=1551369763&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/boss%E7%9B%B8%E5%85%B3?rev=1551368832&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/pvp?rev=1551368522&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/signaturemove?rev=1551368522&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -72,6 +77,26 @@
 
 ABCD不变，成长性大幅提升。符卡可以DIY，而不是从有限种类中选择。</description>
     </item>
+    <item rdf:about="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T10:30:50+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>专业术语</title>
+        <link>http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff</link>
+        <description>在阅读规则前，我们会将在本规则有关的专有名词在这里进行解释。从未接触过MNM的玩家们，在确认具体规则前先搞清楚这些词的含义会让角色的建立更加轻松。
+
+GM
+
+游戏主持人（GameMaster）的略称，是这个游戏的主持人玩家，负责处理游戏中的各种描述和数据、判定规则等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T10:03:46+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>何为mnm</title>
+        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff</link>
+        <description>欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。</description>
+    </item>
     <item rdf:about="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2019-02-28T15:51:23+0000</dc:date>
@@ -84,22 +109,46 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
 
 目前标志性动作已经完全实装，MH规则依然乱七八糟。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-11T13:38:47+0000</dc:date>
+        <dc:date>2019-10-02T03:20:12+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>如何从头开始建立角色</title>
+        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff</link>
+        <description>创立属于你的角色
+
+角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
+
+虽然对东方project有一定了解的玩家们可能会对幻想乡中各式各样的角色非常熟悉，不过在MNM的世界里，玩家们将扮演一个全新的人物，她有着自己的外貌和种族，有着自己的能力，甚至有着自己的符卡……而本篇章的规则将带领你从头开始建立一个人物。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-26T01:40:03+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>少女与异变</title>
-        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1560260327&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff</link>
         <description>少女与异变
       基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
 欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T15:54:32+0000</dc:date>
+        <dc:date>2019-10-02T03:44:15+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>形象部分</title>
+        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff</link>
+        <description>形象部分
+
+开始之前
+
+幻想乡中的少女们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1569667919&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-28T10:51:59+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>技能与生活</title>
-        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1551369272&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1569667919&amp;do=diff</link>
         <description>技能与生活
 
 使用技能要消耗一定的时间，根据情况从数秒到数小时都有可能。
@@ -156,6 +205,23 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
 
 当故事过程中，遇到“无法确定动作能否成功”的情况下，掷一枚20面的骰子（下简记d20），加上相关的补正值，与一个目标值进行比较。如果超过了目标值，那么动作就成功了。</description>
     </item>
+    <item rdf:about="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-09-30T09:46:51+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>概述篇章</title>
+        <link>http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff</link>
+        <description>其一.妖怪能轻松发动异变
+
+其一.人类能轻松解决异变
+
+其一.否定完全的实力主义
+
+其一.没有东西能胜过美丽与思念
+
+
+ ————《命名决斗法案》</description>
+    </item>
     <item rdf:about="http://mnm.roscar.club/%E7%8C%9B%E6%B1%89?rev=1551369472&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2019-02-28T15:57:52+0000</dc:date>
@@ -170,19 +236,17 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
 
 武器列表添加了原版的14种武器，细分为打击和斩击。注意并不是所有武器都能用于格挡。以及DP=体力条。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1569571336&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T15:59:12+0000</dc:date>
+        <dc:date>2019-09-27T08:02:16+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>版本历史</title>
-        <link>http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1551369552&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2?rev=1569571336&amp;do=diff</link>
         <description>版本历史
 
-v1.26b:主要修订：新增了可选规则命名决斗，提供了多角色pvp相关的玩法。平衡性改动（减伤相关，无所畏惧消耗4→6）
+v2.00:巨大缺失后的恢复中版本，正在逐渐回填法术列表。新增气质花云，重做了不少东西，平衡性修正，法术灵光细化等。目前还8行。
 
-v1.26:主要修订：变形武器相关规则。新增一些彩蛋。
-
-v1.25:主要修订：新增气质和特技，修复了使魔相关的一些历史遗留问题，进行相关的内部平衡性调整。</description>
+v1.26b:主要修订：新增了可选规则命名决斗，提供了多角色pvp相关的玩法。平衡性改动（减伤相关，无所畏惧消耗4→6）</description>
     </item>
     <item rdf:about="http://mnm.roscar.club/%E7%89%B9%E8%B4%A8?rev=1556262030&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -322,12 +386,12 @@ PVP、多角色向扩展。规定了PL之间的一些对战协议。对于更热
 
 角色建成与选出</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-04-29T09:04:32+0000</dc:date>
+        <dc:date>2019-10-02T03:47:33+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>sidebar</title>
-        <link>http://mnm.roscar.club/sidebar?rev=1556528672&amp;do=diff</link>
+        <link>http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff</link>
         <description>首页
 
 最近更改
@@ -418,12 +482,12 @@ PVP、多角色向扩展。规定了PL之间的一些对战协议。对于更热
 
 角色每一级可以确定一个新的标志性动作，已有的动作不能再更改。创建新动作的方法如下：</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T15:42:02+0000</dc:date>
+        <dc:date>2019-09-29T17:39:29+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>todo</title>
-        <link>http://mnm.roscar.club/todo?rev=1551368522&amp;do=diff</link>
+        <link>http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff</link>
         <description>待修改列表
 
 ----------
