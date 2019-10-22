@@ -13,8 +13,11 @@
 </p>
 
 <p>
-你可以在任意一个自身回合的开始阶段，选择退出构成弹幕的攻击模式，转而变为一般的行动模式；或从一般的行动模式，转而变为构成弹幕的攻击模式，但单次构成弹幕的持续时间不得超过【构成弹幕】回合。<br/>
+你可以在任意一个自身回合的开始阶段，选择退出构成弹幕的攻击模式，转而变为一般的行动模式；或从一般的行动模式，转而变为构成弹幕的攻击模式，但单次构成弹幕的持续时间不得超过【构成弹幕】轮。在持续时间结束的下一轮开始时，你退出构成弹幕模式。你退出构成弹幕模式的那一轮中，你无法再次进入构成弹幕模式。<br/>
 
+</p>
+
+<p>
 弹幕构成的基本单位是<strong><em>弹幕强度</em></strong>。<br/>
 
 在回合开始时，你可以选择<em><strong>专注攻击</strong></em>，获得3*【构成弹幕】点弹幕强度。或者，你也可以选择<em><strong>弹幕援护</strong></em>，进行一次标准施法，并获得【构成弹幕】点弹幕强度。
@@ -22,6 +25,12 @@
 
 <p>
 构成弹幕期间无法进行回避或者格挡，且每回合只能进行一次半速移动。你获得【构成弹幕】点硬度。
+</p>
+
+<p>
+在构成弹幕期间，如果【能力】等级或【构成弹幕】等级发生变化的情况下，构成弹幕的持续时间按照展开时的计算，但每轮的弹幕强度、能力伤害骰等按照当前的数值进行计算。同理，在持续期间只定义一次的相关的异能在展开时决定、每轮重置的异能每轮重新计算。<br/>
+
+但是，如果你的【构成弹幕】等级被下降到了0，那么你立即退出构成弹幕状态。
 </p>
 
 </div>
@@ -56,7 +65,7 @@
 </p>
 
 <p>
-下述【能力】指【构成弹幕】等级对应的能力。{对应特性值}指该能力对应的特性值。如【魔法】对应知性，【射击锻炼】对应身体。
+下述【能力】指【构成弹幕】等级对应的能力。{对应特性值}指该能力对应的特性值。如【魔法】对应知性，【射击锻炼】对应身体。&lt;技能等级&gt;指投入了多少次弹幕强度。
 </p>
 
 </div>
@@ -94,7 +103,7 @@
 		<td class="col0 centeralign">  +4  </td><td class="col1 centeralign">  +2  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  -2  </td><td class="col4 centeralign">  -4  </td><td class="col5 centeralign">  无效  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;3173-3277&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;3851-3955&quot;} --><hr />
 
 </div>
 
@@ -122,7 +131,7 @@
 		<td class="col0 centeralign">  -2  </td><td class="col1 centeralign">  -1  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  -1  </td><td class="col4 centeralign">  -2  </td><td class="col5 centeralign">  无效  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;3514-3618&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;4192-4296&quot;} --><hr />
 
 </div>
 
@@ -141,7 +150,7 @@
 </p>
 
 <p>
-移动滞留弹：1点弹幕强度1个滞留弹，总共不超过【构成弹幕】个。如滞留弹移动过程中碰撞或离开其他角色，正常造成伤害。因这种原因而受到伤害的角色，可以选择不受到这次伤害，消耗本回合中的移动动作，进行“随滞留弹移动”，在移动力允许范围内保持自机与滞留弹的相对位置不变。<br/>
+移动滞留弹：1点弹幕强度1个滞留弹1格，总共不超过【构成弹幕】个*格。如滞留弹移动过程中碰撞或离开其他角色，正常造成伤害。因这种原因而受到伤害的角色，可以选择不受到这次伤害，消耗本回合中的移动动作，进行“随滞留弹移动”，在移动力允许范围内保持自机与滞留弹的相对位置不变。<br/>
 
 </p>
 <hr />
@@ -221,7 +230,7 @@
 </p>
 
 <p>
-移动出弹点：1点弹幕强度2格。
+移动出弹点：1点弹幕强度2个*格。
 </p>
 
 </div>
