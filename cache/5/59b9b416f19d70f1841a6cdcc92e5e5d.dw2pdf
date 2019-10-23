@@ -3,7 +3,7 @@
 <div class="level2">
 
 <p>
- 施法判定：使用{对应特性值}+【能力等级】*2作为基础判定值，部分能力或装备等会给予判定值补正。目标值为6*（2+法术环数）。在施法上不能投入dp，由于其它效果获得的判定补正（如集中精神，【假动作】特技等）正常计算在内。
+ 施法判定：使用{对应特性值}+【能力等级】*2+d20作为基础判定值，部分能力或装备等会给予判定值补正，如【魔法专精】或【妖术】绑定技能则会提升部分法术的能力等级。施法的目标值为6*（2+法术环数）。在施法上不能投入dp，由于其它效果获得的判定补正（如集中精神，【假动作】特技等）正常计算在内。
 </p>
 
 <p>
@@ -127,7 +127,7 @@
 		<th class="col0 leftalign">妖术  </th><td class="col1 centeralign">  1  </td><td class="col2 centeralign">  2  </td><td class="col3 centeralign">  3  </td><td class="col4 centeralign">  3  </td><td class="col5 centeralign">  3  </td><td class="col6 centeralign">  3  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;3453-3927&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;3556-4030&quot;} -->
 <p>
 一般来说，在学习法术的时候，可以消耗能力点来获得对应法术的等级。比如某人物学习了3级魔法与2级连段，那么他一共需要消耗（5+10+15）+（10+10）=50点能力点数。
 </p>
