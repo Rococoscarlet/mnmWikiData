@@ -19,7 +19,11 @@
 </p>
 
 <p>
-注意习得妖术本身不能如其它能力一样，使用妖术等级进行&lt;射击&gt;&lt;弹幕&gt;&lt;近战&gt;等。但是可以使用妖术学习【魔法：战斗系】中的魔法，以进行战斗。
+所有的妖术都视为同一能力种类、同一能力系。
+</p>
+
+<p>
+注意习得妖术本身不能如其它能力一样，使用妖术等级进行&lt;射击&gt;&lt;弹幕&gt;&lt;近战&gt;等。但是可以使用妖术学习有直接伤害效果的魔法，以进行战斗。
 </p>
 
 </div>
@@ -55,16 +59,16 @@
 		<td class="col0 centeralign">  半标动  </td><td class="col1 centeralign">  标动  </td><td class="col2 centeralign">  1.5标动  </td><td class="col3 centeralign">  整轮  </td><td class="col4 centeralign">  跨轮  </td>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  -6  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  +6  </td><td class="col3 centeralign">  +12  </td><td class="col4 centeralign">  每一轮额外+12  </td>
+		<td class="col0 centeralign">  [法术等级]-4  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  [法术等级]+2  </td><td class="col3 centeralign">  [法术等级]+4  </td><td class="col4 centeralign">  每多一轮[法术等级]+4  </td>
 	</tr>
 	<tr class="row2">
 		<td class="col0 centeralign">  自身  </td><td class="col1 centeralign">  角色  </td><td class="col2 centeralign">  区域  </td><td class="col3 centeralign">  30m内全部  </td><td class="col4 centeralign">  更大  </td>
 	</tr>
 	<tr class="row3">
-		<td class="col0 centeralign">  +6  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  -6  </td><td class="col3 centeralign">  -12  </td><td class="col4 centeralign">  每30m半径-12  </td>
+		<td class="col0 centeralign">  [法术等级]+2  </td><td class="col1 centeralign">  0  </td><td class="col2 centeralign">  [法术等级]-2  </td><td class="col3 centeralign">  [法术等级]-4  </td><td class="col4 centeralign">  每30m半径[法术等级]-4  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;2397-2625&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;2456-2789&quot;} -->
 <p>
 一般组合的例子：
 </p>
