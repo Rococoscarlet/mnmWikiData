@@ -11,14 +11,14 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:43:34+0000</dc:date>
+       <dc:date>2019-11-01T01:16:43+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2?rev=1551370502&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%88%90%E9%95%BF?rev=1551370534&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1551370518&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E8%83%8C%E6%99%AF%E6%95%85%E4%BA%8B?rev=1551370466&amp;do=diff"/>
             </rdf:Seq>
         </items>
@@ -52,12 +52,12 @@
 
 当角色经历了一定的历练后，就会提升到新的等级了。这个过程一般是在一个冒险结束后，也可能某些故事开始前，角色就已经不是lv1的状态了。这种情况下，除了提升角色的等级以外，还可以获得特性值、能力、技能、HP系数与符卡的成长。和建成角色时类似，可以任意在四项上分配ABCD四个成长级别（其中HP系数与符卡捆绑为一项）。如果是希望微调角色成长的长团，或者有其它特殊需求的话，采用BCCD或者BCDE之类较缓慢的成长系数也是可以的。…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:15:49+0000</dc:date>
+        <dc:date>2019-09-29T03:42:37+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>角色:气质</title>
-        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1551370549&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8?rev=1569728557&amp;do=diff</link>
         <description>气质
 
 当建立一个新角色时，可以免费为你的角色选择一个气质，这个气质决定了角色的战斗倾向或者人物特点。
@@ -78,12 +78,12 @@
 
 特性值与体型属于角色最基本的属性。这些属性关系到几乎所有判定能否成功，譬如较为强壮的角色不易被毒素影响，身形迅捷的角色可以先发制人，⑨很难释放需要知识的魔法等等。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T06:25:15+0000</dc:date>
+        <dc:date>2019-09-29T14:08:40+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>角色:种族</title>
-        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1560320715&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff</link>
         <description>种族
 
 在幻想乡中，各种各样种族的生物关注和谐、谋求发展一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。</description>
