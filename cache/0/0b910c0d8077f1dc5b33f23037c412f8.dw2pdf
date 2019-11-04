@@ -1,0 +1,104 @@
+<a name="形象部分__"></a>
+<h1><bookmark content="形象部分" level="0" /><a name="形象部分__形象部分">形象部分</a></h1>
+<div class="level1">
+
+</div>
+
+<h3><bookmark content="开始之前" level="1" /><a name="形象部分__开始之前">开始之前</a></h3>
+<div class="level3">
+
+<p>
+幻想乡中的少女<sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup>们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。<sup><a href="#fn__2" id="fnt__2" class="fn_top">2)</a></sup>
+</p>
+
+<p>
+ * <strong>{特征值}</strong>：用于描述少女的基础属性<br/>
+
+ * <strong>种族</strong>：分类学上少女的种族<br/>
+
+ * <strong>【能力】</strong>：  用于描述少女“引发超自然现象”的能力或者需要专门训练的特技<br/>
+
+ * <strong>&lt;技能&gt;</strong> ： 用于描述少女日常生活中的技能<br/>
+
+</p>
+
+<p>
+一名角色不可能同时在所有方面都是长项，少女可能天生属于强力的种族，或是长于一方面的属性，等等。在你最希望少女擅长的方面，将其设置为A级；最不擅长的方面，设置为D级。以此类推，将“ABCD”四个等级分别分配到特性值、种族、能力、技能上，确定角色的大致倾向。通过下表，可以确认每个等级所对应的数值或描述。
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<td class="col0 leftalign">     </td><th class="col1 centeralign">        A       </th><th class="col2 centeralign">         B     </th><th class="col3 centeralign">    C    </th><th class="col4 centeralign">    D    </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<th class="col0"> 特性值 </th><td class="col1 centeralign">  24  </td><td class="col2 centeralign">  22  </td><td class="col3 centeralign">  20  </td><td class="col4 centeralign">  18  </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0 leftalign" rowspan="2"> 种族   </th><td class="col1 centeralign">  吸血鬼·恶魔  </td><td class="col2 centeralign">  亡灵·天狗  </td><td class="col3 centeralign">  魔法使·河童  </td><td class="col4 centeralign">  人类·妖精  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign">        </td><td class="col1 centeralign">  妖怪·怪异  </td><td class="col2 centeralign">  付丧神·妖兽·月兔  </td><td class="col3 centeralign">   天邪鬼   </td>
+	</tr>
+	<tr class="row4">
+		<th class="col0 leftalign"> 能力   </th><td class="col1 centeralign">  30  </td><td class="col2 centeralign">  25  </td><td class="col3 centeralign">  20  </td><td class="col4 centeralign">  15  </td>
+	</tr>
+	<tr class="row5">
+		<th class="col0 leftalign"> 技能   </th><td class="col1 centeralign">  14  </td><td class="col2 centeralign">  12  </td><td class="col3 centeralign">  10  </td><td class="col4 centeralign">  8  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;1151-1514&quot;} -->
+</div>
+
+<h4><bookmark content="特性值" level="2" /><a name="形象部分__特性值">特性值</a></h4>
+<div class="level4">
+
+<p>
+特性值描述了少女的基础属性，其中包含{身体}{耐力}{知性}{感觉}{意志}共五项。五项特性值的初始值总和应为表中所查值，如“B”级的特性值应获得总计22点特性。
+</p>
+
+</div>
+
+<h4><bookmark content="种族" level="2" /><a name="形象部分__种族">种族</a></h4>
+<div class="level4">
+
+<p>
+角色的种族。种族有强有弱，而且会给予一定的特性值、能力或技能修正。如“D”级的种族，可以从人类、妖精或天邪鬼中选择一个。
+</p>
+
+</div>
+
+<h4><bookmark content="能力" level="2" /><a name="形象部分__能力">能力</a></h4>
+<div class="level4">
+
+<p>
+角色使用【阴阳术】【魔法】【属性使】【妖术】【锻炼】【连段】或者【特技】的能力。不同的系别间各有特色。
+</p>
+
+</div>
+
+<h4><bookmark content="技能" level="2" /><a name="形象部分__技能">技能</a></h4>
+<div class="level4">
+
+<p>
+包含战斗技能和生活技能两大类。战斗技能主要是增加射击、回避等战斗行动的成功率；生活技能会让角色的探索更加有效率，也是角色的一部分收入来源。
+</p>
+
+</div>
+
+<h4><bookmark content="其它" level="2" /><a name="形象部分__其它">其它</a></h4>
+<div class="level4">
+
+<p>
+每名少女都拥有不同的<a href="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E6%B0%94%E8%B4%A8" class="wikilink1" title="角色:气质">气质</a>，以体现其角色倾向。除此之外，少女还可能持有一些装备或者魔法道具。
+</p>
+<blockquote><div class="no">
+ 蘑菇想要创建一个属于自己的幻想乡少女。在她的构思里，这应该是一个魔法使。既然是魔法使，那么擅长使用魔法也是自然的事了。因此她选择了等级为C的种族，并且将能力设定成了A。至于剩下的属性，她认为这个角色的身体属性的出色程度应该大于技能的熟练程度，因此设定了B等级的特性值和D等级的技能。</div></blockquote>
+
+</div>
+<div class="footnotes">
+<div class="fn"><sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup> 
+<div class="content"><del>或者少年，或者老女人，或者玄爷，或者什么别的东西</del></div></div>
+<div class="fn"><sup><a href="#fnt__2" id="fn__2" class="fn_bot">2)</a></sup> 
+<div class="content">请注意我们使用的括号种类，如无特殊声明，对同种类属性均使用同种括号</div></div>
+</div>
