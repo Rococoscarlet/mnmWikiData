@@ -11,16 +11,16 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:44:21+0000</dc:date>
+       <dc:date>2019-11-04T07:54:33+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1569574836&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1569556380&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E7%81%B5%E5%85%89?rev=1556537003&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1569655245&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1569568644&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%98%B4%E9%98%B3%E6%9C%AF?rev=1560323755&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%AD%94%E6%B3%95?rev=1551370371&amp;do=diff"/>
             </rdf:Seq>
@@ -31,34 +31,34 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:08:35+0000</dc:date>
+        <dc:date>2019-09-29T08:49:53+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:妖术</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1551370115&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%A6%96%E6%9C%AF?rev=1569746993&amp;do=diff</link>
         <description>妖术的学习
 
 妖术从规则上可以看做是将魔法的每个法术分别视为独立的能力而习得的东西。不过也有若干妖术特有的能力。除非与属性使组合，否则人类无法习得妖术。
 
 妖术的主属性为{智力}，默认不需法术成分，只要移动手指的程度即可发动。其灵力消耗为对应法术的一半（向下取整，但不低于1）。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1569574836&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:09:06+0000</dc:date>
+        <dc:date>2019-09-27T09:00:36+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:属性使</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1551370146&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF?rev=1569574836&amp;do=diff</link>
         <description>使用的特性值
 
 「属性使」是一种天生的能力，属于感觉型的能力，无需理解也可以使用，特别是对于妖精等等来说。因此在使用「属性使」时，除了{知性}也可以使用{感觉}。具体使用{知性}还是{感觉}需要在学习「属性使」时决定好。同时学会数个「属性使」时，必须关联相同的特性值。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1569556380&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:09:24+0000</dc:date>
+        <dc:date>2019-09-27T03:53:00+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:构成弹幕</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1551370164&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%9E%84%E6%88%90%E5%BC%B9%E5%B9%95?rev=1569556380&amp;do=diff</link>
         <description>构成弹幕
 
 进行跨轮的弹幕攻击的附加能力。选择你已经习得的一个【能力】，以学习【构成弹幕：xx能力】。学习消耗为3/4/5/5/5/5。
@@ -77,22 +77,22 @@
 
 此处介绍在进行施法、延续效果、法术效果对抗时采用的基本原则，这一原则主要用于对复杂的进行施法、延续、对抗等操作能否成立进行基本性的定义。此处的规则不涉及具体的数值设计，仅给出合理性或可能性。在一般情况下，按照规则所述判定即可。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1569655245&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:10:51+0000</dc:date>
+        <dc:date>2019-09-28T07:20:45+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:法术通用规则</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1551370251&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E6%B3%95%E6%9C%AF%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99?rev=1569655245&amp;do=diff</link>
         <description>法术的使用
 
- 施法判定：使用{对应特性值}+【能力等级】*2作为基础判定值，部分能力或装备等会给予判定值补正。目标值为6*（2+法术环数）。在施法上不能投入dp，由于其它效果获得的判定补正（如集中精神，【假动作】特技等）正常计算在内。</description>
+ 施法判定：使用{对应特性值}+【能力等级】*2+d20作为基础判定值，部分能力或装备等会给予判定值补正，如【魔法专精】或【妖术】绑定技能则会提升部分法术的能力等级。施法的目标值为6*（2+法术环数）。在施法上不能投入dp，由于其它效果获得的判定补正（如集中精神，【假动作】特技等）正常计算在内。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1569568644&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:11:43+0000</dc:date>
+        <dc:date>2019-09-27T07:17:24+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:特技</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1551370303&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E7%89%B9%E6%8A%80?rev=1569568644&amp;do=diff</link>
         <description>特技
 
 根据功能，分为基础类，效果类，弹幕类，动作类。此外，还有一些零散的内容，如使魔等，也归于此类。
@@ -105,12 +105,12 @@ HP：1点+0.1hp系数
 
 高速飞行：2点，移动力+0.5每级</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-02-28T16:12:01+0000</dc:date>
+        <dc:date>2019-09-29T17:17:54+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:锻炼与连段</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1551370321&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff</link>
         <description>锻炼与连段
 
 熟练的使用武器和连续攻击的能力。
