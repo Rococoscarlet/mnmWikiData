@@ -109,6 +109,23 @@ SC获得额外一回合<br/>
 
 </div>
 
+<h4><bookmark content="花云（混合）" level="2" /><a name="角色气质__花云_混合">花云（混合）</a></h4>
+<div class="level4">
+
+<p>
+任选两项特性值+1，其余特性值-2<br/>
+
+在你使用能力时，如果你当前能力系中习得的法术不超过两个，你获得施法速度+1
+</p>
+<ul>
+<li class="level1"><div class="li"> 能力系指譬如【阴阳术：结界】、【魔法：变化系】这种。</div>
+</li>
+<li class="level1"><div class="li"> 施法速度不低于半标动</div>
+</li>
+</ul>
+
+</div>
+
 <h4><bookmark content="疏雨（弹幕）" level="2" /><a name="角色气质__疏雨_弹幕">疏雨（弹幕）</a></h4>
 <div class="level4">
 
@@ -217,8 +234,6 @@ SC获得额外一回合<br/>
 <div class="level4">
 
 <p>
-智力+1，感知+1<br/>
-
 连续使用不同种类/不同属性的能力时，<br/>
 
 每换一次能力种类，能力等级+2（必须整条链上全部不同，否则重置）
