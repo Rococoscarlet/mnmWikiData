@@ -80,7 +80,7 @@
 
 </div>
 
-<h2><bookmark content="属性克制" level="1" /><a name="能力属性使__属性克制">属性克制</a></h2>
+<h2><bookmark content="属性克制与特性" level="1" /><a name="能力属性使__属性克制与特性">属性克制与特性</a></h2>
 <div class="level2">
 
 <p>
@@ -89,22 +89,53 @@
 
 </div>
 
-<h2><bookmark content="与妖术的组合使用" level="1" /><a name="能力属性使__与妖术的组合使用">与妖术的组合使用</a></h2>
-<div class="level2">
+<h3><bookmark content="属性特性表" level="2" /><a name="能力属性使__属性特性表">属性特性表</a></h3>
+<div class="level3">
 
 <p>
-习得「属性使」时，和技能一样可和妖力进行搭配。进行组合时，若「属性使」等级低于「妖术」等级，判定时用「属性使」的等级代替「妖术」等级。<br/>
-
-这种情况下妖术不消耗灵力，转而消耗等同于法术环数的属性强度。<br/>
-
-只限于和「属性使」搭配时，即使是人类也能习得妖力。用来搭配的妖力可用「属性使」所使用的特性值来判定，还可得到【妖术】+1的修正。此时，为妖术选择一个属性使基础技能，获得其法术成分、范围、目标等。<br/>
-
-与「属性使」搭配的「妖术」具有该属性，且按照属性规则的抵抗修正也适用。<br/>
-
-与「属性使」搭配时，发动的瞬间将会出现依照「生成」而定的事物。因此受到该能力的对象，至少可以推测被施展了何种属性的「属性使」能力。这些生成物可以立即消灭，也可以持续残留，但都是极小的物体，没有其他影响。<br/>
-
+<del>这个大概也会被扔进可选规则吧</del>
 </p>
-
+<div class="table sectionedit1"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign">属性  </th><th class="col1 leftalign">特性  </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign">木  </td><td class="col1 leftalign">属性造物的效果持续时间+1回合/分钟/小时  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign">火  </td><td class="col1 leftalign">属性造物的伤害+2d  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign">土  </td><td class="col1 leftalign">属性造物相关的体质豁免难度+2  </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign">金  </td><td class="col1 leftalign">属性造物的硬度+1  </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign">水  </td><td class="col1 leftalign">属性造物的影响范围+1格（如果本身是按格计算）  </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign">风  </td><td class="col1 leftalign">属性造物的影响范围+1级（如果本身是按距离计算）  </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign">雷  </td><td class="col1 leftalign">属性造物额外选定目标+1  </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign">冰  </td><td class="col1 leftalign">属性造物相关的精神豁免难度+2  </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign">光  </td><td class="col1 leftalign">区域效果的法术等级+1  </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign">暗  </td><td class="col1 leftalign">区域效果的抵抗难度+2  </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign">星  </td><td class="col1 leftalign">区域效果额外获得属性强度+1  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;4031-4616&quot;} -->
 </div>
 
 <h2><bookmark content="基本能力的效果范围" level="1" /><a name="能力属性使__基本能力的效果范围">基本能力的效果范围</a></h2>
@@ -117,7 +148,7 @@
 属性使法术的尺寸表<br/>
 
 </p>
-<div class="table sectionedit1"><table class="inline">
+<div class="table sectionedit2"><table class="inline">
 	<thead>
 	<tr class="row0">
 		<th class="col0 centeralign">  距离  </th><th class="col1 centeralign">  范围  </th><th class="col2 centeralign">  必要[属性使]等级  </th><th class="col3 centeralign">  提升的环数  </th><th class="col4 centeralign">  消费灵力  </th>
@@ -151,7 +182,7 @@
 		<td class="col0 centeralign">  +10m  </td><td class="col1 centeralign">  +5m  </td><td class="col2 centeralign">  +1Lv  </td><td class="col3 centeralign">  +1  </td><td class="col4 centeralign">  +2  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;5402-5807&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;5042-5447&quot;} -->
 <p>
 施法者可以位于一条边，按照正方形来决定效果范围。<br/>
 
@@ -172,9 +203,27 @@
 
 </div>
 
+<h2><bookmark content="与妖术的组合使用" level="1" /><a name="能力属性使__与妖术的组合使用">与妖术的组合使用</a></h2>
+<div class="level2">
+
+<p>
+习得「属性使」时，和技能一样可和妖力进行搭配。进行组合时，若「属性使」等级低于「妖术」等级，判定时用「属性使」的等级代替「妖术」等级。<br/>
+
+这种情况下妖术不消耗灵力，转而消耗等同于法术环数的属性强度。<br/>
+
+只限于和「属性使」搭配时，即使是人类也能习得妖力。用来搭配的妖力可用「属性使」所使用的特性值来判定，还可得到【妖术】+1的修正。此时，为妖术选择一个属性使基础技能，获得其法术成分、范围、目标等。<br/>
+
+与「属性使」搭配的「妖术」具有该属性，且按照属性规则的抵抗修正也适用。<br/>
+
+与「属性使」搭配时，发动的瞬间将会出现依照「生成」而定的事物。因此受到该能力的对象，至少可以推测被施展了何种属性的「属性使」能力。这些生成物可以立即消灭，也可以持续残留，但都是极小的物体，没有其他影响。<br/>
+
+</p>
+
+</div>
+
 <h2><bookmark content="属性表" level="1" /><a name="能力属性使__属性表">属性表</a></h2>
 <div class="level2">
-<div class="table sectionedit2"><table class="inline">
+<div class="table sectionedit3"><table class="inline">
 	<thead>
 	<tr class="row0">
 		<th class="col0 leftalign">属性  </th><th class="col1 centeralign">  优势属性  </th><th class="col2 centeralign">  弱点属性  </th><th class="col3 centeralign">  生成属性  </th><th class="col4 centeralign">  生成  </th><th class="col5 centeralign">  发现  </th><th class="col6 centeralign">  广域  </th>
@@ -235,5 +284,5 @@
 		<td class="col0 leftalign">星  </td><td class="col1 centeralign">  暗  </td><td class="col2 centeralign">  光  </td><td class="col3 centeralign">  光/暗/火/冰  </td><td class="col4 centeralign">  光/影像  </td><td class="col5 centeralign">  无云的夜晚  </td><td class="col6 centeralign">  星空  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;6328-8133&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;7010-8815&quot;} -->
 </div>
