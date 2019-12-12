@@ -11,12 +11,12 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:45:40+0000</dc:date>
+       <dc:date>2019-12-12T19:42:44+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -25,12 +25,12 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T06:34:07+0000</dc:date>
+        <dc:date>2019-09-28T16:28:08+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:锻炼与连段:变形武器</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1560321247&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%8F%98%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569688088&amp;do=diff</link>
         <description>变形武器
 
 通过魔法或机械结构切换形态，以使同一把武器产生不同的结构，进而衍生出不同的战斗方式。为了支持这类的设定，产生的规则。
@@ -39,12 +39,12 @@
 
 在制作变形武器时，需要提前声明制作共几种形态的武器。每增加一种形态，锻造价格+2円；如果新形态的种类不同于任意一种老的形态，再额外加1円（如：近战武器与射击武器）。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-24T15:33:07+0000</dc:date>
+        <dc:date>2019-09-29T14:26:01+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:锻炼与连段:天生武器与异形武器</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569339187&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff</link>
         <description>天生武器与异形武器
 
 天生武器
@@ -53,14 +53,14 @@
 
 异形武器
 
-成龙会使用的武器</description>
+不能简单的用上述分类概括的武器，包含复合武器（同时包含近战和射击功能的武器）、临时武器（啤酒瓶桌子腿之类）、非伤害类武器（鱼竿、捕网等）等等。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T09:35:49+0000</dc:date>
+        <dc:date>2019-09-29T14:52:40+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:锻炼与连段:锻炼进阶能力</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560332149&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff</link>
         <description>锻炼的风格
 
 经年累月的战斗使你的武技产生了明显的风格倾向。
