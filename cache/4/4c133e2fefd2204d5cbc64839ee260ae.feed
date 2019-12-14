@@ -11,10 +11,10 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-09-25T05:45:16+0000</dc:date>
+       <dc:date>2019-12-14T14:44:59+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569473343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1560259604&amp;do=diff"/>
             </rdf:Seq>
         </items>
@@ -24,12 +24,12 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569473343&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-06-12T11:01:45+0000</dc:date>
+        <dc:date>2019-09-26T04:49:03+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>能力:属性使:属性使法术列表</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1560337305&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E5%B1%9E%E6%80%A7%E4%BD%BF/%E5%B1%9E%E6%80%A7%E4%BD%BF%E6%B3%95%E6%9C%AF%E5%88%97%E8%A1%A8?rev=1569473343&amp;do=diff</link>
         <description>属性使法术列表
 
 属性使的法术列表，分为基础法术和进阶法术。下述[法术等级]为【属性使】。
