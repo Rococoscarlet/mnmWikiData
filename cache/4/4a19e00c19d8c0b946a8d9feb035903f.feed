@@ -11,7 +11,7 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2019-10-21T01:11:25+0000</dc:date>
+       <dc:date>2019-12-17T00:32:26+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff"/>
@@ -20,7 +20,7 @@
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1569667919&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff"/>
@@ -121,12 +121,12 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
 
 虽然对东方project有一定了解的玩家们可能会对幻想乡中各式各样的角色非常熟悉，不过在MNM的世界里，玩家们将扮演一个全新的人物，她有着自己的外貌和种族，有着自己的能力，甚至有着自己的符卡……而本篇章的规则将带领你从头开始建立一个人物。…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-26T01:40:03+0000</dc:date>
+        <dc:date>2019-11-19T14:48:09+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>少女与异变</title>
-        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1569462003&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff</link>
         <description>少女与异变
       基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
 欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
