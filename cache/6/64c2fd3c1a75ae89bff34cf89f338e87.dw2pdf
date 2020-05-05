@@ -75,13 +75,41 @@
 
 炮盾：3円。护甲+2<br/>
 
-扫射：5円。伤害+2。对方回避时，取“射击判定值+伤害”为目标值，回避失败则溢出部分每1点造成1伤害。<br/>
+扫射：5円。伤害+2。你的射击目标变为1格中的所有敌人。对方回避时，不进行对抗，直接取“射击判定值+伤害*2+伤害骰*4+10”为目标值，回避失败则溢出部分每2点造成1伤害。对方格挡或放弃回避时正常计算，扫射武器无法进行连段。<br/>
 
 对方格挡或放弃抵抗承受伤害时，按照原本的判定进行。<br/>
 
 自动射击：5円。回避+1，一回合一次，可以消耗5灵力，进行一次不消耗动作的普通射击。<br/>
 
 本回合不能再用这个武器进行射击，也不能使用包含该武器射击的chain。
+</p>
+
+<p>
+霰射：8円。伤害+3d3，&lt;射击&gt;衰减变为下表：
+</p>
+<div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<th class="col0 leftalign">距离  </th><td class="col1 centeralign">  0m  </td><td class="col2 centeralign">  5m  </td><td class="col3 centeralign">  10~20m  </td><td class="col4 centeralign">  20~30m  </td><td class="col5 centeralign">  30m以上  </td>
+	</tr>
+	<tr class="row1">
+		<th class="col0 leftalign">技能衰减  </th><td class="col1 centeralign">  +2  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  -2  </td><td class="col4 centeralign">  -6  </td><td class="col5 centeralign">  -10  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;2594-2706&quot;} -->
+<p>
+同时，获得伤害衰减
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<th class="col0 leftalign">距离  </th><td class="col1 centeralign">  0m  </td><td class="col2 centeralign">  5m  </td><td class="col3 centeralign">  10~20m  </td><td class="col4 centeralign">  20~30m  </td><td class="col5 centeralign">  30m以上  </td>
+	</tr>
+	<tr class="row1">
+		<th class="col0 leftalign">伤害衰减  </th><td class="col1 centeralign">  +2d3  </td><td class="col2 centeralign">  0  </td><td class="col3 centeralign">  -2d3  </td><td class="col4 centeralign">  -6d3  </td><td class="col5 centeralign">  -10d3  </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;2737-2857&quot;} -->
+<p>
+霰射与鹰目复合的情况，0m处不变，5m同原本0m，10m~20m同原本5m，以此类推。
 </p>
 
 </div>
@@ -136,7 +164,7 @@
 
 溅射：5点。攻击同时对和目标相邻的敌人造成命中-3，伤害-3的近战攻击。<br/>
 
-灵性：8点。连续攻击同一个目标，每次命中+2。<br/>
+灵性：8点。连续攻击同一个目标，每次命中+2，但不超过+10。<br/>
 
 破坏：10点。多使用两个伤害骰，并且使命中的目标丧失格挡能力两回合。<br/>
 
@@ -159,7 +187,7 @@
 
 弹射：5点。射击命中目标时，可以对目标10m内的敌人造成一次命中-2，伤害-2的射击。<br/>
 
-灵性：5点。连续攻击同一个目标，每次命中+2。<br/>
+灵性：5点。连续攻击同一个目标，每次命中+2，但不超过+10。<br/>
 
 压制：8点。多使用两个伤害骰，目标如未被命中，则回避-2，持续一回合。<br/>
 
