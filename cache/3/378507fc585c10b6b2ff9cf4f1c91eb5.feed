@@ -11,22 +11,17 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2020-09-02T19:31:15+0000</dc:date>
+       <dc:date>2020-09-14T18:34:58+0000</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599836357&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834900&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
@@ -36,22 +31,58 @@
         <link>http://mnm.roscar.club/</link>
         <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-11-19T14:48:09+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>少女与异变</title>
-        <link>http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff</link>
-        <description>少女与异变
-      基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
-欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
+        <dc:date>2020-09-12T02:48:34+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>lite:特性值与体型</title>
+        <link>http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff</link>
+        <description>特性值与体型
+
+特性值与体型属于角色最基本的属性。这些属性关系到几乎所有判定能否成功，譬如较为强壮的角色不易被毒素影响，身形迅捷的角色可以先发制人，⑨很难释放需要知识的魔法等等。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:47:33+0000</dc:date>
+        <dc:date>2020-09-12T02:36:27+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>lite:种族</title>
+        <link>http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff</link>
+        <description>种族
+
+在幻想乡中，各种各样种族的生物一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。
+
+当然，本表中列出的种族也不尽善尽美。诸如“妖怪”之类，只是对无法分类的生物的笼统说法，其中包含大量自成一类的少女。对于非本表中存在的幻想生物，如果有需要的话，也可以在GM同意后自由补充。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-11T15:04:09+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>如何从头开始建立角色</title>
+        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff</link>
+        <description>创立属于你的角色
+
+角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
+
+虽然对东方project有一定了解的玩家们可能会对幻想乡中各式各样的角色非常熟悉，不过在MNM的世界里，玩家们将扮演一个全新的人物，她有着自己的外貌和种族，有着自己的能力，甚至有着自己的符卡……而本篇章的规则将带领你从头开始建立一个人物。…</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599836357&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-11T14:59:17+0000</dc:date>
+        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
+        <title>形象部分 - [开始之前] </title>
+        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599836357&amp;do=diff</link>
+        <description>形象部分
+
+开始之前
+
+幻想乡中的少女们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-11T14:41:45+0000</dc:date>
         <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
         <title>sidebar</title>
-        <link>http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff</link>
+        <link>http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff</link>
         <description>首页
 
 最近更改
@@ -130,73 +161,32 @@
 
 	*  文明利器…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834900&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:44:15+0000</dc:date>
+        <dc:date>2020-09-11T14:35:00+0000</dc:date>
         <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
-        <title>形象部分 - 创建</title>
-        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff</link>
-        <description>形象部分
+        <title>角色篇章</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834900&amp;do=diff</link>
+        <description>……最后一次看到还能这样欢笑的孩子究竟已是多久之前。
 
-开始之前
+从未听说过的不可思议的歌声，不可思议的舞蹈。看来今天似乎是祭典的日子。
 
-幻想乡中的少女们拥有着各异的性格，来自于不同的传说，甚至分属于不同的种族。我们用如下四个基础属性来描述一名少女的客观属性。</description>
+我想，总有一天也要住进有这样的孩子们的笑脸的国度。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:20:12+0000</dc:date>
-        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
-        <title>如何从头开始建立角色</title>
-        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff</link>
-        <description>创立属于你的角色
-
-角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
-
-虽然对东方project有一定了解的玩家们可能会对幻想乡中各式各样的角色非常熟悉，不过在MNM的世界里，玩家们将扮演一个全新的人物，她有着自己的外貌和种族，有着自己的能力，甚至有着自己的符卡……而本篇章的规则将带领你从头开始建立一个人物。…</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-30T10:30:50+0000</dc:date>
-        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
-        <title>专业术语 - 创建</title>
-        <link>http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff</link>
-        <description>在阅读规则前，我们会将在本规则有关的专有名词在这里进行解释。从未接触过MNM的玩家们，在确认具体规则前先搞清楚这些词的含义会让角色的建立更加轻松。
-
-GM
-
-游戏主持人（GameMaster）的略称，是这个游戏的主持人玩家，负责处理游戏中的各种描述和数据、判定规则等。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-30T10:03:46+0000</dc:date>
+        <dc:date>2020-09-11T14:30:02+0000</dc:date>
         <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
         <title>何为mnm</title>
-        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff</link>
         <description>欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-30T09:46:51+0000</dc:date>
+        <dc:date>2020-09-11T14:15:24+0000</dc:date>
         <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
-        <title>概述篇章 - 创建</title>
-        <link>http://mnm.roscar.club/%E6%A6%82%E8%BF%B0%E7%AF%87%E7%AB%A0?rev=1569836811&amp;do=diff</link>
-        <description>其一.妖怪能轻松发动异变
-
-其一.人类能轻松解决异变
-
-其一.否定完全的实力主义
-
-其一.没有东西能胜过美丽与思念
-
-
- ————《命名决斗法案》</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T17:39:29+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>todo</title>
-        <link>http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff</link>
+        <title>todo - [todo] </title>
+        <link>http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff</link>
         <description>待修改列表
 
 ----------
@@ -216,70 +206,6 @@ FIXME
 更多武器支持，双持武器，变形武器等等。武器细分希望。
 
 todo</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T17:32:19+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>技能与生活:遗产</title>
-        <link>http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB/%E9%81%97%E4%BA%A7?rev=1569778339&amp;do=diff</link>
-        <description>遗产
-
-不一定是遗产，是角色并非经由购买、积累等获取的初始资源（如家传的宝刀，祖上的豪宅，发给月兔的制式装备等）。必须在建成角色时决定，无法通过成长获得。
-
-一般而言，可以消费1技能点来获取等价于4円的资源。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T17:17:54+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:锻炼与连段</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5?rev=1569777474&amp;do=diff</link>
-        <description>锻炼与连段
-
-熟练的使用武器和连续攻击的能力。
-等级    0→1    →2    →3    →4    →5    →6  锻炼    4    6    8    10    10    10  连段    10    10    10    10    10    10  
-锻炼
-
-使角色熟练地使用武器的能力。选择一种具体的武器进行锻炼。如【射击锻炼：标枪】或【近战锻炼：日本刀】。使用同类型的武器时锻炼等级视作不变（如：刀与附魔的刀），不同武器间的锻炼无法通用。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T14:52:40+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:锻炼与连段:锻炼进阶能力</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E9%94%BB%E7%82%BC%E8%BF%9B%E9%98%B6%E8%83%BD%E5%8A%9B?rev=1569768760&amp;do=diff</link>
-        <description>锻炼的风格
-
-经年累月的战斗使你的武技产生了明显的风格倾向。
-
-任意一种【锻炼】等级3或以上的情况下才可以习得，只能从下列中选择一个。如果对不同的武器均有超过3级的【锻炼】，那么可以习得不同的锻炼风格。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T14:26:01+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>能力:锻炼与连段:天生武器与异形武器</title>
-        <link>http://mnm.roscar.club/%E8%83%BD%E5%8A%9B/%E9%94%BB%E7%82%BC%E4%B8%8E%E8%BF%9E%E6%AE%B5/%E5%A4%A9%E7%94%9F%E6%AD%A6%E5%99%A8%E4%B8%8E%E5%BC%82%E5%BD%A2%E6%AD%A6%E5%99%A8?rev=1569767161&amp;do=diff</link>
-        <description>天生武器与异形武器
-
-天生武器
-
-爪子之类的，并非用金钱购买而是天生就有的，使用能力点购买，对应的锻炼降价，而且可以有常在的法术效果（如：有毒的爪子）
-
-异形武器
-
-不能简单的用上述分类概括的武器，包含复合武器（同时包含近战和射击功能的武器）、临时武器（啤酒瓶桌子腿之类）、非伤害类武器（鱼竿、捕网等）等等。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T14:08:40+0000</dc:date>
-        <dc:creator>9cai (9cai@undisclosed.example.com)</dc:creator>
-        <title>角色:种族</title>
-        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2/%E7%A7%8D%E6%97%8F?rev=1569766120&amp;do=diff</link>
-        <description>种族
-
-在幻想乡中，各种各样种族的生物关注和谐、谋求发展一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。</description>
     </item>
     <item rdf:about="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
