@@ -11,17 +11,17 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2020-09-02T21:31:15+0000</dc:date>
+       <dc:date>2020-09-15T13:07:33+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8B%E8%BD%BD?rev=1551368955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%8E%E4%B8%9C%E6%96%B9%E5%8D%83%E5%B9%BB%E6%8A%84%E7%9A%84%E5%8C%BA%E5%88%AB?rev=1551369017&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD?rev=1569839450&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%BC%82%E5%8F%98?rev=1574174889&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599878365&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8A%80%E8%83%BD%E4%B8%8E%E7%94%9F%E6%B4%BB?rev=1569667919&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%8E%A2%E7%B4%A2?rev=1551369360&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E6%9D%82%E9%A1%B9?rev=1551369388&amp;do=diff"/>
@@ -35,14 +35,15 @@
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%AE%80%E6%98%93%E5%BB%BA%E5%8D%A1%E6%95%99%E7%A8%8B?rev=1551369586&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E7%B2%89%E7%BA%A2%E4%B9%A6?rev=1551369641&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%83%BD%E5%8A%9B?rev=1551369696&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834942&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2?rev=1551369748&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%AF%85%E5%92%92%E6%AD%A6%E5%99%A8?rev=1555142667&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4?rev=1551369763&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/boss%E7%9B%B8%E5%85%B3?rev=1551368832&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/pvp?rev=1551368522&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/signaturemove?rev=1551368522&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -89,12 +90,12 @@ GM
 
 游戏主持人（GameMaster）的略称，是这个游戏的主持人玩家，负责处理游戏中的各种描述和数据、判定规则等。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-30T10:03:46+0000</dc:date>
+        <dc:date>2020-09-11T14:30:02+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>何为mnm</title>
-        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1569837826&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff</link>
         <description>欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。</description>
     </item>
     <item rdf:about="http://mnm.roscar.club/%E5%8F%AF%E9%80%89%E6%8B%93%E5%B1%95?rev=1551369083&amp;do=diff">
@@ -109,12 +110,12 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
 
 目前标志性动作已经完全实装，MH规则依然乱七八糟。</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:20:12+0000</dc:date>
+        <dc:date>2020-09-11T15:04:09+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>如何从头开始建立角色</title>
-        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1569986412&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E8%A7%92%E8%89%B2?rev=1599836649&amp;do=diff</link>
         <description>创立属于你的角色
 
 角色是冒险的基础。没有角色，故事便无从谈起。你在幻想乡中控制的人物，一般会被称为PC（player character）；而GM控制的人物，一般被称为NPC（none-player character）。
@@ -131,12 +132,12 @@ rt，可选规则，啥都有，幻想乡乱斗指南。
       基本资料  中文名称少女与异变英文名称Maid &amp; Mutant作者 ⑨菜盒子 游戏类型TRPG系统Dice Pool当前版本v1.26
 欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。（史诗级加强杂技演员，一刀9999级瞬间射爆。）…</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599878365&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:44:15+0000</dc:date>
+        <dc:date>2020-09-12T02:39:25+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>形象部分</title>
-        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1569987855&amp;do=diff</link>
+        <link>http://mnm.roscar.club/%E5%BD%A2%E8%B1%A1%E9%83%A8%E5%88%86?rev=1599878365&amp;do=diff</link>
         <description>形象部分
 
 开始之前
@@ -316,6 +317,18 @@ v1.26b:主要修订：新增了可选规则命名决斗，提供了多角色pvp�
 
 等级    0→1    →2    →3</description>
     </item>
+    <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834942&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-11T14:35:42+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>角色篇章</title>
+        <link>http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834942&amp;do=diff</link>
+        <description>……最后一次看到还能这样欢笑的孩子究竟已是多久之前。
+
+从未听说过的不可思议的歌声，不可思议的舞蹈。看来今天似乎是祭典的日子。
+
+我想，总有一天也要住进有这样的孩子们的笑脸的国度。</description>
+    </item>
     <item rdf:about="http://mnm.roscar.club/%E8%A7%92%E8%89%B2?rev=1551369748&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2019-02-28T16:02:28+0000</dc:date>
@@ -386,12 +399,12 @@ PVP、多角色向扩展。规定了PL之间的一些对战协议。对于更热
 
 角色建成与选出</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-10-02T03:47:33+0000</dc:date>
+        <dc:date>2020-09-11T14:41:45+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>sidebar</title>
-        <link>http://mnm.roscar.club/sidebar?rev=1569988053&amp;do=diff</link>
+        <link>http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff</link>
         <description>首页
 
 最近更改
@@ -482,12 +495,12 @@ PVP、多角色向扩展。规定了PL之间的一些对战协议。对于更热
 
 角色每一级可以确定一个新的标志性动作，已有的动作不能再更改。创建新动作的方法如下：</description>
     </item>
-    <item rdf:about="http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff">
+    <item rdf:about="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2019-09-29T17:39:29+0000</dc:date>
+        <dc:date>2020-09-11T14:15:24+0000</dc:date>
         <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
         <title>todo</title>
-        <link>http://mnm.roscar.club/todo?rev=1569778769&amp;do=diff</link>
+        <link>http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff</link>
         <description>待修改列表
 
 ----------
