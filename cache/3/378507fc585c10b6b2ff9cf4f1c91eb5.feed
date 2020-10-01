@@ -11,7 +11,7 @@
         <description></description>
         <link>http://mnm.roscar.club/</link>
         <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2020-09-17T00:08:17+0000</dc:date>
+       <dc:date>2020-10-01T01:01:34+0000</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff"/>
@@ -21,7 +21,6 @@
                 <rdf:li rdf:resource="http://mnm.roscar.club/sidebar?rev=1599835305&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E8%A7%92%E8%89%B2%E7%AF%87%E7%AB%A0?rev=1599834900&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff"/>
-                <rdf:li rdf:resource="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff"/>
                 <rdf:li rdf:resource="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
@@ -180,32 +179,6 @@
         <title>何为mnm</title>
         <link>http://mnm.roscar.club/%E4%BD%95%E4%B8%BAmnm?rev=1599834602&amp;do=diff</link>
         <description>欢迎来到幻想乡的世界！本作品是基于东方project故事背景的TRPG规则框架。在幻想乡中探索故事的同时，享受符卡战的乐趣。提供高自由度的角色扮演系统，你可以扮演妖怪之山的天狗、雾之湖的妖精甚至是月兔军团的成员。</description>
-    </item>
-    <item rdf:about="http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2020-09-11T14:15:24+0000</dc:date>
-        <dc:creator>metatron (metatron@undisclosed.example.com)</dc:creator>
-        <title>todo - [todo] </title>
-        <link>http://mnm.roscar.club/todo?rev=1599833724&amp;do=diff</link>
-        <description>待修改列表
-
-----------
-
-1、待修改条目
-
-现在内容：
-
-修改原因：
-
-建议修改结果：
-
-FIXME
-
-死灵系法术还要差不多6~7个？问题比较多
-
-更多武器支持，双持武器，变形武器等等。武器细分希望。
-
-todo</description>
     </item>
     <item rdf:about="http://mnm.roscar.club/?image=%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg&amp;ns=&amp;rev=1569394484&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
