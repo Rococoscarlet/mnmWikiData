@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://mnm.roscar.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://mnm.roscar.club/feed.php">
+        <title>少女与异变 lite</title>
+        <description></description>
+        <link>http://mnm.roscar.club/</link>
+        <image rdf:resource="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2021-01-09T16:03:29+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff"/>
+                <rdf:li rdf:resource="http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>少女与异变</title>
+        <link>http://mnm.roscar.club/</link>
+        <url>http://mnm.roscar.club/ttp://mnm.roscar.club/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-12T02:48:34+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>lite:特性值与体型</title>
+        <link>http://mnm.roscar.club/lite/%E7%89%B9%E6%80%A7%E5%80%BC%E4%B8%8E%E4%BD%93%E5%9E%8B?rev=1599878914&amp;do=diff</link>
+        <description>特性值与体型
+
+特性值与体型属于角色最基本的属性。这些属性关系到几乎所有判定能否成功，譬如较为强壮的角色不易被毒素影响，身形迅捷的角色可以先发制人，⑨很难释放需要知识的魔法等等。</description>
+    </item>
+    <item rdf:about="http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-09-12T02:36:27+0000</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>lite:种族</title>
+        <link>http://mnm.roscar.club/lite/%E7%A7%8D%E6%97%8F?rev=1599878187&amp;do=diff</link>
+        <description>种族
+
+在幻想乡中，各种各样种族的生物一同生活。她们虽然本源不同，但绝大多数都采用少女的身形存在于此。每个种族都有自己的特性值补正和特殊能力，栖息地和生态也不尽相同。
+
+当然，本表中列出的种族也不尽善尽美。诸如“妖怪”之类，只是对无法分类的生物的笼统说法，其中包含大量自成一类的少女。对于非本表中存在的幻想生物，如果有需要的话，也可以在GM同意后自由补充。…</description>
+    </item>
+</rdf:RDF>
