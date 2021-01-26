@@ -265,13 +265,41 @@
 		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：15  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：5轮  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：接触  </td><td class="col1 centeralign">  目标：区域  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 自愿豁免  </td>
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：区域  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 自愿豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">需要长时间准备的传送法术，可以将自身周围较大范围内的人或物转移到一个已知位置。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;8647-8997&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;8647-8997&quot;} -->
+<p>
+持续施法至少5轮后，将自身及周围10m内的物品、自愿角色转移至一个已知位置。
+</p>
+<ul>
+<li class="level1"><div class="li"> 传送位置在施法时确定，且需知道其相对于当前位置的大致方位（8方向程度）</div>
+</li>
+<li class="level1"><div class="li"> 最大传送距离为[施法轮数]*10km。</div>
+</li>
+<li class="level1"><div class="li"> 施法者可以选择周围单个不超过自身体型+2、总数不超过[法术等级]*4个的物品同时进行传送</div>
+</li>
+<li class="level1"><div class="li"> 自愿角色与松散的物品（如一堆土）视作两个物品。</div>
+</li>
+<li class="level1"><div class="li"> 非自愿角色无法被传送（避免你们把boss传送到一百里开外通关）</div>
+</li>
+<li class="level1"><div class="li"> 选择了超过上限的物品时，选择离施法者最近的对应数量个物品。</div>
+</li>
+<li class="level1"><div class="li"> 传送发动后，施法者无法感知到有多少物品被传送走了（如有角色躲在大箱子里，会被视作总计3个物品，这可能导致部分物品传送失败，但无法察觉是哪里出了问题）</div>
+</li>
+</ul>
+
+<p>
+常在化：不可
+</p>
+
+<p>
+法术精通：你可以通过额外消耗5灵力、施法难度上升0.5环来代替一轮施法时间。
+</p>
+<hr />
 <div class="table sectionedit9"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>短途传送术</strong>  </th>
@@ -286,7 +314,7 @@
 		<td class="col0 leftalign" colspan="4">进行短途传送的法术，施法速度与传送距离和移动类似，也可以用于进行回避判定。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;9007-9373&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;10004-10370&quot;} -->
 <p>
 选择施法距离内可通行的一个区域，传送至那里。灵力消耗为1/格传送距离。
 </p>
@@ -300,15 +328,11 @@
 </ul>
 
 <p>
-当你需要进行一次回避判定时，你可以不进行回避判定，转而以即时动作发动此法术，此时法术位
-</p>
-
-<p>
 常在化：不可
 </p>
 
 <p>
-法术精通：
+法术精通：当你需要进行一次回避判定时，你可以不进行回避判定，转而以即时动作发动此法术代替回避，此时法术为3环，灵力消耗为3。
 </p>
 <hr />
 <div class="table sectionedit10"><table class="inline">
@@ -316,16 +340,36 @@
 		<th class="col0 centeralign" colspan="4">  <strong>加速术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：10  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：不大于一角色的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合/分钟  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">提升目标物体或角色运行速度的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;9820-10074&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;10854-11177&quot;} -->
+<p>
+目标是物体的情况下，其运行速度提升10%*[法术等级]。
+</p>
+<ul>
+<li class="level1"><div class="li"> 也会更快的消耗燃料，或更快的停止运动</div>
+</li>
+<li class="level1"><div class="li"> 当物体包含多个部分时，仅能用于提升其中“不大于一角色”部分的运动速度。</div>
+</li>
+<li class="level1"><div class="li"> 操作物体如原本为0.5标准动作，则一回合一次缩短为即时动作。如原本为1标准动作，则一回合一次缩短为0.5标准动作。（注意加速的目标，比如相机快门可以运动的更快，但吃鸡腿的动作加速鸡腿是没有意义的）</div>
+</li>
+</ul>
+
+<p>
+目标是角色的情况下，其每回合开始时获得2标准动作，而非1.5标准动作。
+</p>
+<ul>
+<li class="level1"><div class="li"> 这个效果不能叠加</div>
+</li>
+</ul>
+<hr />
 <div class="table sectionedit11"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>心灵传动</strong>  </th>
@@ -340,7 +384,7 @@
 		<td class="col0 leftalign" colspan="4">用思维控制轻小物体移动的法术，也可以用于操控人偶。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;10083-10364&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;11842-12123&quot;} --><hr />
 <div class="table sectionedit12"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>牵引术</strong>  </th>
@@ -355,7 +399,7 @@
 		<td class="col0 leftalign" colspan="4">将远方的物体召唤到自己身边的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;10373-10627&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;12132-12386&quot;} --><hr />
 <div class="table sectionedit13"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>沉默术</strong>  </th>
@@ -370,6 +414,6 @@
 		<td class="col0 leftalign" colspan="4">使目标区域内无法发出声音的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;10635-10886&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;12394-12645&quot;} -->
 </div>
 <!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u5492\u6cd5\u7cfb\u6cd5\u672f\u5217\u8868&quot;,&quot;hid&quot;:&quot;\u5492\u6cd5\u7cfb\u6cd5\u672f\u5217\u8868&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;2-&quot;} -->
