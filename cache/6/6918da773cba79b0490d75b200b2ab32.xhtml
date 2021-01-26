@@ -168,28 +168,110 @@
 		<td class="col0 centeralign">  环数：5  </td><td class="col1 centeralign">  灵力消耗：20  </td><td class="col2 centeralign">  法术成分：姿势、语言、法器  </td><td class="col3 centeralign">  施法时间：1.5标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：[法术等级]小时  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
+		<td class="col0 centeralign">  施法距离：自身  </td><td class="col1 centeralign">  目标：自身  </td><td class="col2 centeralign">  持续时间：[法术等级]小时，<strong>延续</strong>  </td><td class="col3 centeralign">  豁免鉴定: 无  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">召唤动物或神话生物的法术，可以用于战斗或探索。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;4040-4367&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;4040-4380&quot;} -->
+<p>
+在习得时，选择一种或一类动物。如[召唤术：两栖类]、[召唤术：蝴蝶]等，不同的召唤物视作不同的法术。施法时，召唤物获得(法术达成值)+[法术等级]*5点[召唤物：召唤强度]。
+</p>
+<ul>
+<li class="level1"><div class="li"> 可以选择神话生物，如[召唤术：独角兽]或者已经灭绝的生物，如[召唤术：霸王龙]。</div>
+</li>
+<li class="level1"><div class="li"> 施法者必须熟知其特征与生活习性等，并持有与其习性相关的某种道具作为法器。</div>
+</li>
+<li class="level1"><div class="li"> 施法者与其召唤物可以进行超视距的心灵感应交流，但仅限于简单的指令或得知召唤物是否仍然存在。</div>
+</li>
+<li class="level1"><div class="li"> 召唤物可以感知的情况与施法者类似，而非与原物种类似，但在演出上依然受到原物种本质的限制。（如：不会限制召唤的老鼠完全没有远距离视力，但在演出时可以酌情使其传递的视觉情报模糊不清）</div>
+</li>
+<li class="level1"><div class="li"> 对于召唤物同种的生物，也能进行简单的交流。</div>
+</li>
+<li class="level1"><div class="li"> [召唤强度]会在役使召唤物或者召唤物被攻击时消耗，当其归零后[召唤术]自动失效</div>
+</li>
+<li class="level1"><div class="li"> 每持续1小时，[召唤强度]下降5点。</div>
+</li>
+<li class="level1"><div class="li"> 进行延续时，也恢复[法术等级]*2点召唤强度</div>
+</li>
+</ul>
+
+<p>
+施法时，选择进行[召唤术：集群]、[召唤术：小队]或[召唤术：个体]。
+</p>
+<ul>
+<li class="level1"><div class="li"> [集群]为数量不定的大量召唤物，hp为[召唤强度]，受到非范围攻击的伤害减半；基础{特性值}均为1，任选一项合理的{主要特性值}为3。</div>
+</li>
+<li class="level1"><div class="li"> [小队]为最多不超过[法术等级]只单独的召唤物，hp均分[召唤强度]，基础{特性值}均为1，任选一项合理的{主要特性值}为3。</div>
+</li>
+<li class="level1"><div class="li"> [个体]为一只单独的强力召唤物，hp为[召唤强度]，基础{特性值}均为2，任选定一项合理的{主要特性值}为5。</div>
+</li>
+<li class="level1"><div class="li"> 一般情况下，是否能进行对应的召唤与其物种数量、体型等相关。是否允许其进行如此操作请由GM酌定。如：禁止召唤霸王龙的集群，或者蠹虫的英雄个体。</div>
+</li>
+</ul>
+
+<p>
+役使其进行探索的场合：<br/>
+
+可以役使召唤物进行探索、移动等。召唤物的&lt;技能&gt;基础判定值为{施法特性值}+[法术等级]*2，移动速度为[法术等级]km/h。
+</p>
+<ul>
+<li class="level1"><div class="li"> 每次发出指令消耗4[召唤强度]，使召唤物分成数队的情况，每一队都需要消耗4[召唤强度]</div>
+</li>
+<li class="level1"><div class="li"> 对[集群]而言，无论分成多少队，都消耗10[召唤强度]，但集群活动半径不能超过[法术等级]*100m。</div>
+</li>
+<li class="level1"><div class="li"> 仅能用于进行召唤物本身可以进行的行动，如[召唤物：星鼻鼹鼠]完全不能用于进行视觉的侦查，但可以用于感知地面的震动来获知是否有人经过等。</div>
+</li>
+<li class="level1"><div class="li"> 召唤物可以类似飞行或瞬移的超越原本物种移动速度的高速移动，具体表现形式由GM酌定。</div>
+</li>
+</ul>
+
+<p>
+帮助或阻挠其它角色进行判定的场合：<br/>
+
+在合理的情况下，使其判定值最多上升[法术等级]/2点或下降[法术等级]点。
+</p>
+<ul>
+<li class="level1"><div class="li"> 每次指令消耗6[召唤强度]</div>
+</li>
+<li class="level1"><div class="li"> 仅能用于合理的辅助行动，一般情况阻挠比较合理，而帮助则需要特殊理由。如[召唤物：犬类]帮助进行&lt;追迹&gt;是合理的。</div>
+</li>
+</ul>
+
+<p>
+进行战斗的场合：<br/>
+
+对于[集群]：可以在战斗中当作弹幕被射出。在进行&lt;射击&gt;或【弹幕】时，可以将1点[召唤强度]转变为1射击命中判定值或1射击伤害；可以将1点[召唤强度]转变为1【弹幕强度】。<br/>
+
+对于[小队]：可以在战斗中辅助进行射击、近战或者施法。可以将1点[召唤强度]转变为1命中判定值、1射击伤害；可以将2点[召唤强度]转变为1近战命中判定值或1近战伤害。可以将4[召唤强度]转化为1施法判定值。<br/>
+
+对于[个体]：可以以对应的特性值和技能进行作战。使用上述{特性值}，&lt;技能&gt;均视为[法术等级]/2级。每次进行1标准动作消耗4[召唤强度]，半动或移动消耗2，即时动作消耗1。
+</p>
+
+<p>
+常在化：选择一只召唤物对应的特殊个体作为魔宠常时存在。在未施法状态下，魔宠可以进行对应物种的行动，且能与施法者进行较复杂的超视距心灵感应交流。魔宠在hp归零时暂时消失，且一周内无法再次召唤。
+</p>
+
+<p>
+法术精通：当召唤物被用于帮助自身进行判定时，获得的效果翻倍。
+</p>
+<hr />
 <div class="table sectionedit8"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>传送术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：15  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：5轮  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：接触  </td><td class="col1 centeralign">  目标：区域  </td><td class="col2 centeralign">  持续时间：立即  </td><td class="col3 centeralign">  豁免鉴定: 自愿豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">需要长时间准备的传送法术，可以将自身周围较大范围内的人或物转移到一个已知位置。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;4379-4699&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;8647-8997&quot;} --><hr />
 <div class="table sectionedit9"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>短途传送术</strong>  </th>
@@ -204,7 +286,7 @@
 		<td class="col0 leftalign" colspan="4">进行短途传送的法术，施法速度与传送距离和移动类似，也可以用于进行回避判定。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;4708-5074&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;9007-9373&quot;} -->
 <p>
 选择施法距离内可通行的一个区域，传送至那里。灵力消耗为1/格传送距离。
 </p>
@@ -243,7 +325,7 @@
 		<td class="col0 leftalign" colspan="4">提升目标物体或角色运行速度的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;5521-5775&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;9820-10074&quot;} --><hr />
 <div class="table sectionedit11"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>心灵传动</strong>  </th>
@@ -258,7 +340,7 @@
 		<td class="col0 leftalign" colspan="4">用思维控制轻小物体移动的法术，也可以用于操控人偶。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;5784-6065&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;10083-10364&quot;} --><hr />
 <div class="table sectionedit12"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>牵引术</strong>  </th>
@@ -273,7 +355,7 @@
 		<td class="col0 leftalign" colspan="4">将远方的物体召唤到自己身边的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;6074-6328&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;10373-10627&quot;} --><hr />
 <div class="table sectionedit13"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>沉默术</strong>  </th>
@@ -288,6 +370,6 @@
 		<td class="col0 leftalign" colspan="4">使目标区域内无法发出声音的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;6336-6587&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;10635-10886&quot;} -->
 </div>
 <!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u5492\u6cd5\u7cfb\u6cd5\u672f\u5217\u8868&quot;,&quot;hid&quot;:&quot;\u5492\u6cd5\u7cfb\u6cd5\u672f\u5217\u8868&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;2-&quot;} -->
