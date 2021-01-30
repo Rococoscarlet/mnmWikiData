@@ -11,134 +11,360 @@
 		<th class="col0 centeralign" colspan="4">  <strong>情绪术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：5  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合  </td><td class="col3 centeralign">  豁免鉴定: 精神豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">改变目标情绪的法术，引导目标的行为倾向，并轻微赋予行动加值或减值。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;99-403&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;99-462&quot;} -->
+<p>
+施法时，指定一种情绪，如[冷静]或[悲伤]等，目标精神豁免失败则陷入这种情绪。
+</p>
+<ul>
+<li class="level1"><div class="li"> 对于会使情况变得有利的情绪，给予技能判定最多不超过[法术等级]/2点加值（如安抚交涉对象）</div>
+</li>
+<li class="level1"><div class="li"> 对于会使情况变得不利的情绪，给予技能判定最多不超过[法术顶级]/2点减值（如让暴躁老哥进行精密操作）</div>
+</li>
+</ul>
+
+<p>
+常在化：你能感受并操控细微的情绪流动变化（GM可以给出模糊的提示），获得+1的交涉加值。
+</p>
+
+<p>
+法术精通：可以指定较为具体的“想做什么事情”的情绪，在战斗中对应情绪还会产生不超过4的基础伤害增减，并影响NPC目标的选择。
+</p>
+<hr />
 <div class="table sectionedit2"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>混乱术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：12  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合  </td><td class="col3 centeralign">  豁免鉴定: 精神豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">使目标思绪变得混乱的法术，只能进行支离破碎的思考，判定值严重下降（不会攻击自己），受到攻击易解除  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;413-762&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;1167-1576&quot;} -->
+<p>
+目标精神豁免失败则只能进行支离破碎的思考，进入失能状态。此时每回合仅能进行0.5标准动作。
+</p>
+<ul>
+<li class="level1"><div class="li"> 受到伤害时再次进行豁免判定</div>
+</li>
+<li class="level1"><div class="li"> 攻击失能中的角色时额外获得1个伤害骰</div>
+</li>
+<li class="level1"><div class="li"> 失能中的角色全{特性值}视为减半（向下取整），&lt;技能&gt;与【能力】等级下降1</div>
+</li>
+<li class="level1"><div class="li"> 在飞行中的PC不会坠落，行走、呼吸类下意识的行动也不会紊乱</div>
+</li>
+</ul>
+
+<p>
+常在化：你周围的角色进行交涉时获得-2减值，且你会招人讨厌。
+</p>
+
+<p>
+法术精通：攻击失能中的角色时变为额外获得[法术等级]/2个伤害骰，你的[混乱术]在释放时可以选择额外击退目标1格。
+</p>
+<hr />
 <div class="table sectionedit3"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>睡眠术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：10  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：接触  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]小时  </td><td class="col3 centeralign">  豁免鉴定: 精神豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">使目标昏昏欲睡的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;771-1009&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;2258-2559&quot;} -->
+<p>
+精神豁免失败后，目标陷入睡眠。
+</p>
+<ul>
+<li class="level1"><div class="li"> 最多同时制定[法术等级]/2（向下取整）个目标</div>
+</li>
+<li class="level1"><div class="li"> 受到攻击伤害时解除</div>
+</li>
+<li class="level1"><div class="li"> 每小时进行一次精神豁免</div>
+</li>
+<li class="level1"><div class="li"> 进行剧烈运动时额外进行一次精神豁免</div>
+</li>
+</ul>
+
+<p>
+常在化：你周围的角色会变得更容易入睡，且睡着时更不容易醒来。相关判定承受不超过-4减值。
+</p>
+
+<p>
+法术精通：[法术等级]+1
+</p>
+<hr />
 <div class="table sectionedit4"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>魅惑术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：4  </td><td class="col1 centeralign">  灵力消耗：15+  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]小时  </td><td class="col3 centeralign">  豁免鉴定: 精神  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">使目标变得容易被施法者操控的法术，但无法用于执行极端指令。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;1018-1310&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;2970-3317&quot;} -->
+<p>
+对象进行精神抵抗，失败则在效果时间内自发服从施术者的命令。
+</p>
+<ul>
+<li class="level1"><div class="li"> 有多种表现形式，如把施术者当成老婆或者当成老板都可以，具体由施术者决定。</div>
+</li>
+<li class="level1"><div class="li"> 交涉相关的判定享受[法术等级]*2的加值</div>
+</li>
+<li class="level1"><div class="li"> 不能强行要求其进行自杀等极端行动。</div>
+</li>
+<li class="level1"><div class="li"> 受到影响的角色每次执行命令或受到伤害时则再次进行抵抗判定。</div>
+</li>
+<li class="level1"><div class="li"> 动物根据其心智水平，受到的影响会下降至约为折半程度，但依然存在。</div>
+</li>
+</ul>
+
+<p>
+常在化：给对方留下有魅力的印象，得到更好的反响。交涉相关的判定获得+2加值。随机选择攻击对象时，常在化［魅惑术］者优先排除。
+</p>
+
+<p>
+法术精通：角色在受到影响时会不由自主的高呼hso，且获得额外+2交涉加值，这个效果即使精神豁免成功也生效，持续[法术等级]天。
+</p>
+<hr />
 <div class="table sectionedit5"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>传音术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：1  </td><td class="col1 centeralign">  灵力消耗：1+  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：0.5标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：视野  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合、<strong>延续</strong>  </td><td class="col3 centeralign">  豁免鉴定: 精神  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">在目标大脑中直接发出声音的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;1319-1572&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;4195-4511&quot;} -->
+<p>
+向对象传递念话，传递速度与说话速度相当。
+</p>
+<ul>
+<li class="level1"><div class="li"> 可以向至多[法术等级]个目标同时作用</div>
+</li>
+<li class="level1"><div class="li"> 声音只能单向传递</div>
+</li>
+<li class="level1"><div class="li"> 如有合适的理由，可获得不超过±2的判定补偿。（相当于脑内双核运算）</div>
+</li>
+<li class="level1"><div class="li"> 传音过程中施术者需要集中精神（0.5标动）以进行交流。</div>
+</li>
+<li class="level1"><div class="li"> 每回合/分钟需要额外消耗1灵力以维持通讯</div>
+</li>
+<li class="level1"><div class="li"> 对熟悉的人则可在视野外进行，此时为3环法术。但是需要知道对象的大致方向(8方向程度)。</div>
+</li>
+<li class="level1"><div class="li"> 可以与[读心术]一同发动，以实现双向信息传递，此时视为1标准动作发动了3环法术。</div>
+</li>
+</ul>
+<hr />
 <div class="table sectionedit6"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>读心术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：2  </td><td class="col1 centeralign">  灵力消耗：3+  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合  </td><td class="col3 centeralign">  豁免鉴定: 精神豁免  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">阅读表层思维或深层思维的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;1581-1831&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;5152-5462&quot;} -->
+<p>
+对象进行精神抵抗，失败则被读取当前的思考或感情。
+</p>
+<ul>
+<li class="level1"><div class="li"> 只能读取表层的意识。</div>
+</li>
+<li class="level1"><div class="li"> 目标无法得知法术的发动，但会正常进行抵抗。</div>
+</li>
+<li class="level1"><div class="li"> 可以通过+2环来读取目标记忆，+3环读取深层意识。</div>
+</li>
+<li class="level1"><div class="li"> 抵抗成功的对象在1日内施法者无法再次读取其思考。</div>
+</li>
+<li class="level1"><div class="li"> 可以与[传音术]一同发动，以实现双向信息传递，此时视为1标准动作发动了3环法术。</div>
+</li>
+</ul>
+
+<p>
+常在化：你可以察觉到5m内其它角色的强烈或突然的感情波动，或者感知30m内是否存在其它有心智的目标，具体情况由GM酌定。
+</p>
+
+<p>
+法术精通：[读心术]变为无需姿势或语言成分就可以发动。
+</p>
+<hr />
 <div class="table sectionedit7"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>遗忘术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：5  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：不定  </td><td class="col3 centeralign">  豁免鉴定: 精神  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">使对方暂时或永久性的遗忘技能或事件的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;1840-2108&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;6160-6467&quot;} -->
+<p>
+对象进行精神抵抗，失败则丧失对施术者指定的一项内容的记忆。
+</p>
+<ul>
+<li class="level1"><div class="li"> 可以指定关于“某一个人物”、“某一个场景”或“某一段时间”之类的记忆。</div>
+</li>
+<li class="level1"><div class="li"> 指定的范围较大或较为重要的情况（如忘记爱人或忘记过去一年内的事情），GM请酌情降低豁免值，但不超过-8。</div>
+</li>
+<li class="level1"><div class="li"> 每隔1小时进行精神抵抗，成功即可回忆起对应的事件。</div>
+</li>
+<li class="level1"><div class="li"> 如经过6小时后仍没有回想起记忆，则无法再自发的回忆起来。</div>
+</li>
+<li class="level1"><div class="li"> 遇到类似的场景或刺激时，即便已经超过了6小时，也可以再次抵抗。对于每一个类似场景只能进行一次对应的判定。</div>
+</li>
+<li class="level1"><div class="li"> 遗忘会移除[真名识破]的进度。</div>
+</li>
+</ul>
+
+<p>
+可以指定一个技能、法术或特技等。这种情况下对象抵抗失败则以该技能被视为lv0处理。
+</p>
+<ul>
+<li class="level1"><div class="li"> 与技能组合的［妖术］变为无法使用。</div>
+</li>
+<li class="level1"><div class="li"> 每隔1小时进行精神抵抗</div>
+</li>
+<li class="level1"><div class="li"> 受到伤害时即再次进行抵抗判定。</div>
+</li>
+<li class="level1"><div class="li"> 不能指定&lt;抵抗&gt;&lt;回避&gt;&lt;感觉&gt;</div>
+</li>
+<li class="level1"><div class="li"> 若是这种使用法，对象在[法术等级]小时后必然取回记忆。</div>
+</li>
+<li class="level1"><div class="li"> 请注意[遗忘术]不包括读心，不要指定施法者不知道的目标持有的技能。</div>
+</li>
+</ul>
+
+<p>
+常在化：不会给周围的角色留下记忆。没有接触到施术者的外貌或声音30秒后使用{知性}+&lt;抵抗&gt;进行判定（目标值为10+[法术等级]*2），失败则失去与施术者会面的记忆（例如遗忘和施术者见过面，或者目击施术者的记忆、施术者的发言、行动、外貌、印象等，具体由GM裁定）。
+</p>
+
+<p>
+法术精通：可以给目标植入虚假的记忆，照常抵抗。虚假的记忆与真实的记忆之间需要至少有约一半的部分重合。
+</p>
+<hr />
 <div class="table sectionedit8"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>摸爆术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：6  </td><td class="col1 centeralign">  灵力消耗：15  </td><td class="col2 centeralign">  法术成分：姿势、语言  </td><td class="col3 centeralign">  施法时间：1标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目  </td><td class="col2 centeralign">  持续时间：[法术等级]小时  </td><td class="col3 centeralign">  豁免鉴定: 精神  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">使对方变得懒散，不愿意行动的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;2117-2373&quot;} --><hr />
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;8200-8507&quot;} -->
+<p>
+精神豁免失败后，目标变得完全丧失进行任何有建设性的行动的意愿。
+</p>
+<ul>
+<li class="level1"><div class="li"> 最多同时指定[法术等级]个目标</div>
+</li>
+<li class="level1"><div class="li"> 目标所有&lt;技能&gt;与【能力】的等级降至1。</div>
+</li>
+<li class="level1"><div class="li"> 目标进行任何非娱乐性的活动时都需要对目标值20进行一次摸鱼精神豁免，失败则消耗0.5标动且动作无法执行。</div>
+</li>
+<li class="level1"><div class="li"> 每小时进行一次抵抗判定。</div>
+</li>
+<li class="level1"><div class="li"> 受到伤害时即再次进行抵抗判定。</div>
+</li>
+</ul>
+
+<p>
+常在化：狗才摸鱼。我是狗。身边的人都很容易提不起劲，非战斗下如果不进行目标值为12的精神豁免就行动不起来。
+</p>
+
+<p>
+法术精通：摸鱼抵抗的判定不再会有抵抗递增。如果目标一轮都在摸，那么他下一轮开始时只有1标准动作，而非1.5标动。
+</p>
+<hr />
 <div class="table sectionedit9"><table class="inline">
 	<tr class="row0">
 		<th class="col0 centeralign" colspan="4">  <strong>注目术</strong>  </th>
 	</tr>
 	<tr class="row1">
-		<td class="col0 centeralign">  环数：？  </td><td class="col1 centeralign">  灵力消耗：？  </td><td class="col2 centeralign">  法术成分：？  </td><td class="col3 centeralign">  施法时间：？  </td>
+		<td class="col0 centeralign">  环数：3  </td><td class="col1 centeralign">  灵力消耗：5  </td><td class="col2 centeralign">  法术成分：姿势  </td><td class="col3 centeralign">  施法时间：0.5标准动作  </td>
 	</tr>
 	<tr class="row2">
-		<td class="col0 centeralign">  施法距离：？  </td><td class="col1 centeralign">  目标：？  </td><td class="col2 centeralign">  持续时间：？  </td><td class="col3 centeralign">  豁免鉴定: ？  </td>
+		<td class="col0 centeralign">  施法距离：30m  </td><td class="col1 centeralign">  目标：有心智的目标  </td><td class="col2 centeralign">  持续时间：[法术等级]回合  </td><td class="col3 centeralign">  豁免鉴定: 精神  </td>
 	</tr>
 	<tr class="row3">
 		<td class="col0 leftalign" colspan="4">操纵目标的注意力使其集中于某一事物的法术。  </td>
 	</tr>
 </table></div>
-<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;2382-2650&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;9277-9591&quot;} -->
+<p>
+如精神豁免失败，目标只能注意选定的另一事物，而忽略周遭的其它事物。或强行忽略某一个事物，而集中于其它事物。
+</p>
+<ul>
+<li class="level1"><div class="li"> 最多同时对[法术等级]个目标生效。</div>
+</li>
+<li class="level1"><div class="li"> 可以让所有的目标均注意或均忽略某一个事物。</div>
+</li>
+<li class="level1"><div class="li"> 进行与注目的事物有关的需要集中的判定时，判定值+2</div>
+</li>
+<li class="level1"><div class="li"> 进行与忽略的事物有关的需要集中的判定时，判定值-4</div>
+</li>
+<li class="level1"><div class="li"> 进行与忽略的事物有关的即时动作时（如闪避），判定值-6</div>
+</li>
+<li class="level1"><div class="li"> 受到伤害再次进行抵抗</div>
+</li>
+<li class="level1"><div class="li"> 每回合可以进行一次抵抗判定</div>
+</li>
+</ul>
+
+<p>
+常在化：与你相关的&lt;感知&gt;判定都受到不超过+2的加值或-2的减值，在习得常在化时确定。
+</p>
+
+<p>
+法术精通：可以额外通过0.5个标准动作来改变注意的目标。
+</p>
+
 </div>
